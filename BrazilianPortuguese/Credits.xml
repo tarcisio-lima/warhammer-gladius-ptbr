@@ -1,46 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AdditionalAnimations" value="Additional Animations"/>
-	<entry name="AdditionalDesign" value="Additional Design"/>
-	<entry name="AdditionalGraphics" value="Additional Graphics"/>
-	<entry name="AdditionalProgramming" value="Additional Programming"/>
-	<entry name="AdditionalWriting" value="Additional Writing"/>
-	<entry name="Administration" value="Administration"/>
-	<entry name="Animations" value="Animations"/>
-	<entry name="Chairman" value="Chairman"/>
-	<entry name="CreativeDirector" value="Creative Director"/>
-	<entry name="CustomerSupport" value="Customer Support"/>
-	<entry name="DesignAndProgramming" value="Design and Programming"/>
-	<entry name="DevelopedBy" value="Developed by %1%"/>
-	<entry name="DevelopmentDirector" value="Development Director"/>
-	<entry name="Fonts" value="Fonts"/>
-	<entry name="FrenchLocalisation" value="French Localisation"/>
-	<entry name="GermanLocalisation" value="German Localisation"/>
-	<entry name="Graphics" value="Graphics"/>
-	<entry name="GraphicsAndAnimations" value="Graphics and Animations"/>
-	<entry name="IntroCinematics" value="Intro Cinematics"/>
-	<entry name="MediaRelations" value="Media Relations"/>
-	<entry name="JuniorProductManager" value="Junior Product Manager"/>
-	<entry name="Libraries" value="Libraries"/>
-	<entry name="Manual" value="Manual"/>
-	<entry name="ManualLayout" value="Manual Layout"/>
-	<entry name="MarketingDirector" value="Marketing Director"/>
-	<entry name="Music" value="Music"/>
-	<entry name="OperationsDirector" value="Operations Director"/>
-	<entry name="Producers" value="Producers"/>
-	<entry name="ProductManagers" value="Product Managers"/>
-	<entry name="ProductionDesign" value="Production Design"/>
-	<entry name="ProductionLead" value="Production Lead"/>
-	<entry name="ProductionTeam" value="Production Team"/>
-	<entry name="PublishedBy" value="Published by %1%"/>
-	<entry name="RussianLocalisation" value="Russian Localisation"/>
-	<entry name="Sound" value="Sound"/>
-	<entry name="SpanishLocalisation" value="Spanish Localisation"/>
-	<entry name="SpecialThanks" value="Special Thanks"/>
-	<entry name="TechnicalDirector" value="Technical Director"/>
-	<entry name="Translation" value="Translation"/>
-	<entry name="VoiceActors" value="Voice Actors"/>
-	<entry name="WarhammerBy" value="Warhammer 40,000 by %1%"/>
-	<entry name="WebDevelopment" value="Web Development"/>
-	<entry name="Writing" value="Writing"/>
+    <entry name="AdditionalAnimations" value="Animações Adicionais"/>
+    <entry name="AdditionalDesign" value="Projeto Adicional"/>
+    <entry name="AdditionalGraphics" value="Gráficos Adicionais"/>
+    <entry name="AdditionalProgramming" value="Programação Adicional"/>
+    <entry name="AdditionalWriting" value="Redação Adicional"/>
+    <entry name="Administration" value="Administração"/>
+    <entry name="Animations" value="Animações"/>
+    <entry name="Chairman" value="Presidente"/>
+    <entry name="CreativeDirector" value="Diretor criativo"/>
+    <entry name="CustomerSupport" value="Suporte ao cliente"/>
+    <entry name="DesignAndProgramming" value="Design e Programação"/>
+    <entry name="DevelopedBy" value="Desenvolvido por %1%"/>
+    <entry name="DevelopmentDirector" value="Diretor de desenvolvimento"/>
+    <entry name="Fonts" value="Fontes"/>
+    <entry name="FrenchLocalisation" value="Localização Francesa"/>
+    <entry name="GermanLocalisation" value="Localização Alemã"/>
+    <entry name="Graphics" value="Gráficos"/>
+    <entry name="GraphicsAndAnimations" value="Gráficos e Animações"/>
+    <entry name="IntroCinematics" value="Cinema de introdução"/>
+    <entry name="MediaRelations" value="Relações com a mídia"/>
+    <entry name="JuniorProductManager" value="Gerente de Produto Júnior"/>
+    <entry name="Libraries" value="Bibliotecas"/>
+    <entry name="Manual" value="Manual"/>
+    <entry name="ManualLayout" value="Disposição Manual"/>
+    <entry name="MarketingDirector" value="Diretor de marketing"/>
+    <entry name="Music" value="Música"/>
+    <entry name="OperationsDirector" value="Diretor de Operações"/>
+    <entry name="Producers" value="Produtores"/>
+    <entry name="ProductManagers" value="Gerentes de Produto"/>
+    <entry name="ProductionDesign" value="Design de produção"/>
+    <entry name="ProductionLead" value="Líder de Produção"/>
+    <entry name="ProductionTeam" value="Equipe de produção"/>
+    <entry name="PublishedBy" value="Publicado por %1%"/>
+    <entry name="RussianLocalisation" value="Localização Russa"/>
+    <entry name="Sound" value="Som"/>
+    <entry name="SpanishLocalisation" value="Localização em espanhol"/>
+    <entry name="SpecialThanks" value="Agradecimentos especiais"/>
+    <entry name="TechnicalDirector" value="Diretor técnico"/>
+    <entry name="Translation" value="Tradução"/>
+    <entry name="VoiceActors" value="Dubladores"/>
+    <entry name="WarhammerBy" value="Warhammer 40.000 em %1%"/>
+    <entry name="WebDevelopment" value="Desenvolvimento web"/>
+    <entry name="Writing" value="Escrita"/>
 </language>
