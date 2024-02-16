@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="Climate0Name0" value="Campos de Ryme"/>
+    <entry name="Climate0Name1" value="Domínio do Whytout"/>
+    <entry name="Climate0Name2" value="Hoar"/>
+    <entry name="Climate0Name3" value="A Expansão Oth"/>
+    <entry name="Climate0Name4" value="Undrah"/>
+    <entry name="Climate0Name5" value="O Cikle"/>
+    <entry name="Climate0Name6" value="Whitefloe"/>
+    <entry name="Climate0Name7" value="Gelith"/>
+    <entry name="Climate0Name8" value="Ponto de Aldsnoes"/>
+    <entry name="Climate0Name9" value="Sleetslow"/>
+    <entry name="Climate0Name10" value="Hides Icetongue"/>
+    <entry name="Climate0Name11" value="Capa de Cristal"/>
+    <entry name="Climate0Name12" value="Distante Congelada"/>
+    <entry name="Climate0Name13" value="Taiga e Tundra"/>
+    <entry name="Climate0Name14" value="O Árido Gelisol"/>
+    <entry name="Climate0Name15" value="Istmo da Criosfera"/>
+    <entry name="Climate0Name16" value="Cume Zastrugi"/>
+    <entry name="Climate0Name17" value="Os mares Polynya"/>
+    <entry name="Climate0Name18" value="A Costa do Diamante"/>
+    <entry name="Climate0Name19" value="A Deriva Glacial"/>
+    <entry name="Climate0Name20" value="Varrer branco"/>
+    <entry name="Climate0Name21" value="Arcita"/>
+    <entry name="Climate0Name22" value="Nova Edmonton"/>
+    <entry name="Climate0Name23" value="Terra Infundada"/>
+    <entry name="Climate0Name24" value="Kamka"/>
+    <entry name="Climate0Name25" value="Estalag"/>
+    <entry name="Climate0Name26" value="Deriva"/>
+    <entry name="Climate0Name27" value="Geleira Chama Fria"/>
+    <entry name="Climate0Name28" value="Flocoholme"/>
+    <entry name="Climate0Name29" value="Os Poloneses Errantes"/>
+    <entry name="Climate0NameCount" value="30"/>
+    <entry name="Climate1Name0" value="O Deserto Sansea"/>
+    <entry name="Climate1Name1" value="Areias Ssithith"/>
+    <entry name="Climate1Name2" value="Os Jumes"/>
+    <entry name="Climate1Name3" value="Oá"/>
+    <entry name="Climate1Name4" value="Sicahara"/>
+    <entry name="Climate1Name5" value="Susurrantes"/>
+    <entry name="Climate1Name6" value="Deserto das Ossadas"/>
+    <entry name="Climate1Name7" value="Mar de Stonewave"/>
+    <entry name="Climate1Name8" value="Paachlip"/>
+    <entry name="Climate1Name9" value="Pico Solar"/>
+    <entry name="Climate1Name10" value="Vales Áridos"/>
+    <entry name="Climate1Name11" value="Bonewalks do Primarca"/>
+    <entry name="Climate1Name12" value="Oásis de Poeira"/>
+    <entry name="Climate1Name13" value="Ampulheta dos Antigos"/>
+    <entry name="Climate1Name14" value="Aarth Desolada"/>
+    <entry name="Climate1Name15" value="Serra Badhome"/>
+    <entry name="Climate1Name16" value="Dunas da Solidão"/>
+    <entry name="Climate1Name17" value="Terras de Pousio"/>
+    <entry name="Climate1Name18" value="O Vale dos Ossos"/>
+    <entry name="Climate1Name19" value="Tumba"/>
+    <entry name="Climate1Name20" value="Roche Nova"/>
+    <entry name="Climate1Name21" value="Vale dos Silicantes"/>
+    <entry name="Climate1Name22" value="Os Campos Submersos"/>
+    <entry name="Climate1Name23" value="Dessicaa"/>
+    <entry name="Climate1Name24" value="Harara"/>
+    <entry name="Climate1Name25" value="Ocorro"/>
+    <entry name="Climate1Name26" value="Queda de Khagan"/>
+    <entry name="Climate1Name27" value="Velho Oceano"/>
+    <entry name="Climate1Name28" value="Garganta da Morte"/>
+    <entry name="Climate1Name29" value="Desvios Suaves"/>
+    <entry name="Climate1NameCount" value="30"/>
+    <entry name="Climate2Name0" value="Abraço"/>
+    <entry name="Climate2Name1" value="Céu Silencioso"/>
+    <entry name="Climate2Name2" value="Grande Loamsent"/>
+    <entry name="Climate2Name3" value="Cerne"/>
+    <entry name="Climate2Name4" value="Floresta Xilhém"/>
+    <entry name="Climate2Name5" value="Verdais"/>
+    <entry name="Climate2Name6" value="Vida profunda"/>
+    <entry name="Climate2Name7" value="Bagoda Imperial"/>
+    <entry name="Climate2Name8" value="Ilhid"/>
+    <entry name="Climate2Name9" value="Rivoma"/>
+    <entry name="Climate2Name10" value="Dossel de Altemorra"/>
+    <entry name="Climate2Name11" value="Selva das Garras"/>
+    <entry name="Climate2Name12" value="Soheil Wilds"/>
+    <entry name="Climate2Name13" value="Paraíso dos Piolhos"/>
+    <entry name="Climate2Name14" value="Jardins dos Perdidos"/>
+    <entry name="Climate2Name15" value="Selva Negra"/>
+    <entry name="Climate2Name16" value="Maldição Selvagem"/>
+    <entry name="Climate2Name17" value="O Louche Bush"/>
+    <entry name="Climate2Name18" value="O Chaparral Infinito"/>
+    <entry name="Climate2Name19" value="Liana Teia"/>
+    <entry name="Climate2Name20" value="Briar Boscage"/>
+    <entry name="Climate2Name21" value="O Labirinto das Trepadeiras"/>
+    <entry name="Climate2Name22" value="A Colmeia Submersa"/>
+    <entry name="Climate2Name23" value="Pântano dos Sonhos Perdidos"/>
+    <entry name="Climate2Name24" value="O Undergloop"/>
+    <entry name="Climate2Name25" value="As Fazendas Úmidas"/>
+    <entry name="Climate2Name26" value="Perda do Imperador"/>
+    <entry name="Climate2Name27" value="Orgulho de Mortarion"/>
+    <entry name="Climate2Name28" value="Graveslough"/>
+    <entry name="Climate2Name29" value="Águas da Perdição"/>
+    <entry name="Climate2NameCount" value="30"/>
+    <entry name="Climate3Name0" value="Golpe de Cinzas"/>
+    <entry name="Climate3Name1" value="As Montanhas Celestes"/>
+    <entry name="Climate3Name2" value="Tremlan Imperial"/>
+    <entry name="Climate3Name3" value="A cordilheira Akrak"/>
+    <entry name="Climate3Name4" value="Novo Magvent"/>
+    <entry name="Climate3Name5" value="Pirigno"/>
+    <entry name="Climate3Name6" value="O Mar de Pedra"/>
+    <entry name="Climate3Name7" value="Floam e Fleck"/>
+    <entry name="Climate3Name8" value="Rockrain"/>
+    <entry name="Climate3Name9" value="Ignava"/>
+    <entry name="Climate3Name10" value="Nova Searmont"/>
+    <entry name="Climate3Name11" value="Graveflow de Calderón"/>
+    <entry name="Climate3Name12" value="Trono dos Antigos"/>
+    <entry name="Climate3Name13" value="Montanha Vermelha"/>
+    <entry name="Climate3Name14" value="Tor abalado"/>
+    <entry name="Climate3Name15" value="O Penhasco Cintilante"/>
+    <entry name="Climate3Name16" value="As Terras Infernais"/>
+    <entry name="Climate3Name17" value="Holocar"/>
+    <entry name="Climate3Name18" value="Brasas do Caust"/>
+    <entry name="Climate3Name19" value="O cume incandesce"/>
+    <entry name="Climate3Name20" value="O Riolita Lahar"/>
+    <entry name="Climate3Name21" value="Fim de Vulkan"/>
+    <entry name="Climate3Name22" value="Qartzicon"/>
+    <entry name="Climate3Name23" value="Malcoíta"/>
+    <entry name="Climate3Name24" value="Deriva de Granito"/>
+    <entry name="Climate3Name25" value="Hipocausto"/>
+    <entry name="Climate3Name26" value="Terra da Chuva Cristalina"/>
+    <entry name="Climate3Name27" value="Cragroano"/>
+    <entry name="Climate3Name28" value="Magmaghast"/>
+    <entry name="Climate3Name29" value="Zircão-em-chama"/>
+    <entry name="Climate3NameCount" value="30"/>
+</language>

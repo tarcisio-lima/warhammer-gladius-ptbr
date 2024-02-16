@@ -1,0 +1,46 @@
+<language>
+    <entry name="ConfirmDelete" value="Tem certeza que deseja excluir '%1%'?"/>
+    <entry name="ConfirmDisband" value="Tem certeza de que deseja desmembrar '%1%'?"/>
+    <entry name="ConfirmOverwrite" value="Tem certeza de que deseja substituir '%1%'?"/>
+    <entry name="ConfirmRemoveItem" value="Tem certeza que deseja destruir '%1%'?"/>
+    <entry name="ConfirmRestoreDefaults" value="Tem certeza de que deseja restaurar as configurações padrão de %1%?"/>
+    <entry name="ConfirmSurrender" value="Tem certeza que deseja se render?"/>
+    <entry name="ConnectingToServer" value="Conectando ao servidor..."/>
+    <entry name="ConnectionLost" value="Conexão perdida."/>
+    <entry name="Error" value="Erro"/>
+    <entry name="GameLoaded" value="Jogo carregado"/>
+    <entry name="GameSaved" value="Jogo Salvo"/>
+    <entry name="IncompatibleVersion" value="Versão do jogo incompatível."/>
+    <entry name="Info" value="Informações"/>
+    <entry name="Kicked" value="Você foi expulso do servidor."/>
+    <entry name="MasterServerUnreachable" value="Não foi possível conectar ao servidor mestre."/>
+    <entry name="MissingDLC" value="DLC ausente."/>
+    <entry name="ModUploading" value="Carregando mod..."/>
+    <entry name="ModUploadComplete" value="Mod carregado."/>
+    <entry name="ModUploadFailed" value="Falha no upload do mod."/>
+    <entry name="NoFreeSlots" value="Nenhum slot livre disponível no servidor."/>
+    <entry name="NoMods" value="Nenhum mod instalado."/>
+    <entry name="PlayerJoined" value="%1% aderiu."/>
+    <entry name="PlayerLeft" value="%1% saiu."/>
+    <entry name="PleaseEnterYourName" value="Por favor, insira seu nome."/>
+    <entry name="ReceivingInfo" value="Recebendo informações..."/>
+    <entry name="RestartRequired" value="Você deve reiniciar o jogo para que as alterações tenham efeito."/>
+    <entry name="RetrievingServerList" value="Recuperando lista de servidores..."/>
+    <entry name="ScreenShotSaveError" value="Erro ao salvar a captura de tela"/>
+    <entry name="ScreenShotSaved" value="Captura de tela salva"/>
+    <entry name="SetBinding" value="Pressione uma nova combinação de teclas para vincular a %1%."/>
+    <entry name="SelectTarget" value="Selecione o alvo"/>
+    <entry name="TerminatedWithDisableMods" value="Os mods foram desativados devido a uma falha. Visite a tela de mods para reativá-los."/>
+    <entry name="TermsAndConditions" value="Termos e Condições"/>
+    <entry name="TurnTimerPaused" value="%1% cronômetro pausado."/>
+    <entry name="TurnTimerUnpaused" value="%1% temporizador não pausado."/>
+    <entry name="UnboundControl" value="Ligação removida de %1%."/>
+    <entry name="Warning" value="Aviso"/>
+
+    <!--Linked Keys-->
+    <entry name="GraphicsDriverOutdated" value="Seu driver gráfico está desatualizado.<br/><br/>Para melhorar a estabilidade e o desempenho, atualize o driver gráfico visitando o site de suporte do fabricante da placa gráfica."/>
+	<entry name="NoGames" value="Nenhum jogo público está aberto no momento.<br/>Por que não iniciar um?"/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Sem alvos válidos"/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Por favor aguarde..."/>
+	<entry name="ServerUnreachable" value="Não foi possível conectar-se ao servidor.<br/><br/>Para melhorar a conectividade, verifique se você desativou seus firewalls e ativou o UPnP em seu roteador ou encaminhou a porta TCP %1% para sua máquina local."/>
+</language>

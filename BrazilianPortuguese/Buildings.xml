@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="AdeptusMechanicus/Aircraft" value="Basilikon Archaeoptera"/>
+    <entry name="AdeptusMechanicus/AircraftDescription" value="Edifício que produz aeronaves e também gera alimentos, minério e influência."/>
+    <entry name="AdeptusMechanicus/AircraftFlavor" value="Um Archaeoptera é apenas mais uma instalação de construção do Adeptus Mechanicus, embora para máquinas voadoras e não terrestres. Tem todos os elementos habituais – o trabalho escravo em massa para construir as máquinas, as instalações médicas para todas as amputações que os pilotos precisam para se adaptar e os santuários para conduzir os rituais apropriados sobre os Transvectors e Stratoraptors. Em outras palavras, um fabricante Tech-Priest totalmente normal."/>
+    <entry name="AdeptusMechanicus/Construction" value="Construtor Artisan"/>
+    <entry name="AdeptusMechanicus/ConstructionDescription" value="Edifício que constrói novos edifícios, bem como gera alimentos, minério e influência."/>
+    <entry name="AdeptusMechanicus/ConstructionFlavor" value="O simples título de “artesão” esconde a imensidão do que estes Tecno-Sacerdotes conseguem. Não pessoalmente, claro, mas através de vastas forças de trabalho de servidores com mentes apagadas. Aqui, no Constructorum, este exército de ex-homens constrói os edifícios e ferramentas para permitir os esforços do Tech-Priest em outros lugares."/>
+    <entry name="AdeptusMechanicus/Energy" value="Santuário Termotrocador"/>
+    <entry name="AdeptusMechanicus/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="AdeptusMechanicus/EnergyFlavor" value="Após milênios de habitação, Gladius Prime é um tesouro de tecnologia antiga, muito ativa e profundamente enraizada em sua crosta. Paralelamente, o núcleo do planeta ainda está ativo com magma turbulento. Os Santuários Termo-Trocadores usam tecnologia e rituais misteriosos para aproveitar o movimento inquieto do planeta e reunir essa energia para uso em outro lugar."/>
+    <entry name="AdeptusMechanicus/Food" value="Fornos Ferratônicos"/>
+    <entry name="AdeptusMechanicus/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="AdeptusMechanicus/FoodFlavor" value="Os Adeptus Mechanicus não são famosos por seu amor pelos prazeres da carne e é raro um Tech-Priest que admita ser um gourmet de tudo menos código. Isso se reflete nesses Fornos Ferratônicos reaproveitados, ou melhor, em sua produção dietética. Suas rações são calibradas para serem o meio mais eficiente para transferir o mínimo absoluto de energia e recursos para uma pessoa média sobreviver e funcionar."/>
+    <entry name="AdeptusMechanicus/Loyalty" value="Berço Protosservidor"/>
+    <entry name="AdeptusMechanicus/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="AdeptusMechanicus/LoyaltyFlavor" value="Claro, há dissidência no Império. Mesmo no Adeptus Mechanicus, por mais taciturno que seja, há desacordo sobre o melhor caminho a seguir. E tudo isso é discórdia produtiva e útil. Pois se não houvesse hereges, não haveria a matéria-prima humana necessária para produzir servos e servo-crânios, para servir de exemplo à humanidade covarde sobre o que acontece com aqueles que se desviam do Caminho de Omnissias."/>
+    <entry name="AdeptusMechanicus/Headquarters" value="Templo da Forja"/>
+    <entry name="AdeptusMechanicus/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="AdeptusMechanicus/HeadquartersFlavor" value="O Templo da Forja é o centro da presença do Adeptus Mechanicus em um mundo. É uma cidadela de informação, um repositório dos restos do conhecimento há muito acalentado pela humanidade... ou a sede de um culto fanático dedicado a acumular informações que poderiam salvar a humanidade? Até mesmo pensar que este último seria, é claro, uma heresia..."/>
+    <entry name="AdeptusMechanicus/Heroes" value="Sub-Claustro"/>
+    <entry name="AdeptusMechanicus/HeroesDescription" value="Edifício que produz sacerdotes tecnológicos, bem como aumenta o limite populacional e a lealdade."/>
+    <entry name="AdeptusMechanicus/HeroesFlavor" value="Um Sub-Claustro serve de abrigo e escola para novos Tech-Priests. Aqui, acólitos promissores das cidades colmeias do planeta são treinados nos muitos segredos do Cult Mechanicus. Com o tempo, se sobreviverem, encontrarão a sua vocação, emergindo como humildes Engenheiros, Electro-Sacerdotes fanáticos, Data-Smiths cibernéticos ou qualquer uma de uma miríade de outras especializações não relacionadas com o combate"/>
+    <entry name="AdeptusMechanicus/Housing" value="Hab Fané"/>
+    <entry name="AdeptusMechanicus/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="AdeptusMechanicus/HousingFlavor" value="É difícil pensar em uma raça alienígena que possa aprovar as condições de vida de um Mundo Colmeia – talvez o Hrud subterrâneo. No entanto, para o Adeptus Mechanicus, eles são ideais. Procuram replicar a sua eficiência nas suas próprias unidades habitacionais, amontoando trabalhadores, serventes e skitarii em alojamentos tão apertados que a violência pareceria assegurada – não fosse pela engenharia comportamental e pela cirurgia"/>
+    <entry name="AdeptusMechanicus/Infantry" value="Gerador Caropraedium"/>
+    <entry name="AdeptusMechanicus/InfantryDescription" value="Edifício que produz infantaria e também gera alimentos, minério e influência."/>
+    <entry name="AdeptusMechanicus/InfantryFlavor" value="Dizer que as academias de treino da Astra Militarum “produzem” soldados ofenderia os centros lógicos de qualquer Tech-Priest. Até o acólito mais humilde sabe que os humanos são apenas uma matéria-prima na produção de soldados eficazes, com circuitos, bioplástico e metal constituindo uma proporção maior da maioria dos Skitarii. Afinal, 'a carne é falível'!"/>
+    <entry name="AdeptusMechanicus/Influence" value="Transmissor Auto-Coral"/>
+    <entry name="AdeptusMechanicus/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="AdeptusMechanicus/InfluenceFlavor" value="Para qualquer outra pessoa, é um zumbido de máquina, bipes e rangidos. Mas para os receptores de um tema Adeptus Mechanicus aumentado, é uma combinação de canto coral, sinfonia elegante e oração fervorosa para a glória do Omnissiah e a justiça de Seus servos, o Adeptus Mechanicus."/>
+    <entry name="AdeptusMechanicus/Ore" value="Reator Hemótrópico"/>
+    <entry name="AdeptusMechanicus/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="AdeptusMechanicus/OreFlavor" value="Esta instalação complicada é totalmente compreendida por poucos Tech-Priests, mas pode ser reaproveitada para muitas funções. Na ausência de mão de obra do Adeptus Administratum, para extrair fisicamente o minério, o Adeptus Mechanicus recorre a técnicas antigas aprovadas - redirecionando a produção de plasma do Reator para veios de minério para extrair e refinar os metais que eles contêm"/>
+    <entry name="AdeptusMechanicus/Research" value="Biblioteca Omnis"/>
+    <entry name="AdeptusMechanicus/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="AdeptusMechanicus/ResearchFlavor" value="Nomeada em homenagem ao repositório de dados que abrange o continente enterrado sob a superfície de Marte, cada biblioteca local contémuma pequena fração do conhecimento sobrevivente da humanidade, grande parte do qual foi desordenado ou corrompido durante o Cisma de Marte. Muitos Sacerdotes Tecnológicos dedicam suas vidas (e as perdem) explorando esses segredos na esperança de redescobrir conhecimentos antigos ou até mesmo, se Omnissiah quiser, um STC."/>
+    <entry name="AdeptusMechanicus/Vehicles" value="Manufactorum Cibernética"/>
+    <entry name="AdeptusMechanicus/VehiclesDescription" value="Edifício que produz veículos terrestres e também gera alimentos, minério e influência."/>
+    <entry name="AdeptusMechanicus/VehiclesFlavor" value="Um fabricante Tech-Priest está muito à frente de seu equivalente imperial padrão. Não tecnologicamente, é claro - o Cult Mechanicus considera mais importante salvaguardar a tecnologia que possui e melhorá-la é uma heresia xenarita que apenas o próprio Cawl poderia considerar. Em vez disso, este edifício tem rituais superiores, unguentos, cânticos, libações e assim por diante."/>
+    <entry name="AstraMilitarum/Aircraft" value="Porto Vazio"/>
+    <entry name="AstraMilitarum/AircraftDescription" value="Edifício que produz aeronaves e também gera minério e influência."/>
+    <entry name="AstraMilitarum/AircraftFlavor" value="Este campo de pouso foi projetado para aeronaves maiores – quase até a escala intra-sistema – mas com as intermináveis tempestades de guerra, foi reaproveitado para abrigar as forças aéreas imperiais. Muito parecido com uma plataforma de pouso Skyshield, possui geradores de campo limitados para proteger aeronaves aterradas contra incêndios"/>
+    <entry name="AstraMilitarum/Construction" value="Corpo Trabalhista"/>
+    <entry name="AstraMilitarum/ConstructionDescription" value="Edifício que constrói novos edifícios e também gera alimentos e pesquisas."/>
+    <entry name="AstraMilitarum/ConstructionFlavor" value="Enquanto o Administratum administra todo o Império do homem, o Departmento Munitorum tem a tarefa exclusiva de fornecer mão de obra e suprimentos para o Astra Militarum. Entre suas muitas tarefas está a construção de grandes instalações, como aeródromos ou estações orbitais. Os pobres soldados que têm que fazer o trabalho são o Corpo de Trabalho, os trabalhadores contratados ou penais e os servidores com mentes apagadas."/>
+    <entry name="AstraMilitarum/Energy" value="Ionizador de Plasma"/>
+    <entry name="AstraMilitarum/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="AstraMilitarum/EnergyFlavor" value="Embora os antigos possam ter dividido o átomo, os Tecno-sacerdotes do Império tiveram milênios para aperfeiçoar os rituais pelos quais extraíam o poder. O Ionizador de Plasma de núcleo aberto utiliza sistemas de infusão de refrigerante para manter uma produção de cerca de 100 petawatts por até cem dias consecutivos - cerca de 10.000 vezes a da maior usina de fissão histórica"/>
+    <entry name="AstraMilitarum/Food" value="Fazenda Soylens"/>
+    <entry name="AstraMilitarum/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="AstraMilitarum/FoodFlavor" value="Soylens viridians pode ser farto, nutritivo e fácil de cultivar em grandes cubas - mas como alimento tem algumas desvantagens. Primeiro, é totalmente sem graça e sem sabor. Em segundo lugar, parece uma gosma verde. Terceiro, é feito de qualquer matéria orgânica disponível. Rumores persistentes dizem que os cadáveres humanos não estão excluídos"/>
+    <entry name="AstraMilitarum/Loyalty" value="Santuário Imperial"/>
+    <entry name="AstraMilitarum/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="AstraMilitarum/LoyaltyFlavor" value="A sede local do Culto Imperial pode parecer escura e gótica, mas na verdade é um lugar sagrado. Adornado por estátuas de santos, é um símbolo local venerado da vontade divina do Imperador e fornece inspiração para a população próxima."/>
+    <entry name="AstraMilitarum/Headquarters" value="Basílica Administrativa"/>
+    <entry name="AstraMilitarum/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="AstraMilitarum/HeadquartersFlavor" value="Edifício administrativo central de qualquer colônia imperial, a magnífica Basílica é um templo da burocracia. Gerações de funcionários vestidos à paisana vivem e morrem em meio a tomos cambaleantes, decidindo o destino dos sistemas estelares com o fraco baque de seus selos. Como diz o ditado, a Inquisição pode queimar você, os Astartes ferir você – mas somente o Adeptus Administratum pode atormentá-lo por toda a sua vida."/>
+    <entry name="AstraMilitarum/Heroes" value="Santuário da Áquila"/>
+    <entry name="AstraMilitarum/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+    <entry name="AstraMilitarum/HeroesFlavor" value="Muito mais do que uma mera estátua, esta grande águia de metal foi fundida a partir de restos derretidos de naves espaciais e serve de inspiração para aqueles que estão por perto. As tropas imperiais que lutam sob a vigília incessante do Aquila encontram uma nova determinação brotando em seus corações, sabendo que são os últimos de uma linhagem de heróis que se estende pelas estrelas"/>
+    <entry name="AstraMilitarum/Housing" value="Bloco Hab"/>
+    <entry name="AstraMilitarum/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="AstraMilitarum/HousingFlavor" value="A estrutura imperial clássica, esses edifícios urbanos de identidade são vistos em todo o Império. Eles fornecem o mínimo de abrigo e conforto necessários para que o povo do Império prossiga suas curtas vidas. Na fundação de uma colônia, às vezes eles são construídos in situ – mas mais frequentemente, em planetas remotos, são lançados diretamente de qualquer nave espacial colonizadora."/>
+    <entry name="AstraMilitarum/Infantry" value="Quartel Imperial"/>
+    <entry name="AstraMilitarum/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar alimentos."/>
+    <entry name="AstraMilitarum/InfantryFlavor" value="Embora o treinamento de recrutas para a Guarda Imperial não tenha nenhum dos horrores angustiantes sofridos pelos iniciados de Astartes, o Munitorum ainda precisa perfurar as restrições do Império nos homens e mulheres dizimados que compõem a maioria dos regimentos da Guarda. Aqui, no Quartel, os recrutas pouco promissores de um planeta são transformados no verdadeiro Astra Militarum - dando-lhes uniformes, armas e talvez até algum treinamento"/>
+    <entry name="AstraMilitarum/Influence" value="Estação Cogitadora"/>
+    <entry name="AstraMilitarum/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="AstraMilitarum/InfluenceFlavor" value="Embora a inteligência artificial seja uma abominação, há muito abominada desde a queda dos Homens de Ferro, os arcaicos conjuntos de dados do Adeptus Administratum têm pouca semelhança com computadores antigos ou mesmo com os finos microprocessadores usados pelos Techpriests de Marte. As funções dos pensadores são puramente burocráticas e sua forma é imóvel. Ainda assim, as suas capacidades são valorizadas por todos os mundos imperiais puramente pelasua memória desumana."/>
+    <entry name="AstraMilitarum/Ore" value="Extrator de Minério"/>
+    <entry name="AstraMilitarum/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="AstraMilitarum/OreFlavor" value="Dependendo do planeta, a extração de minérios metálicos e minerais valiosos é realizada por qualquer coisa, desde máquinas de tecnologia antiga mal controladas pelo seu Techpriest magos até milhares de trabalhadores da Labor Corp, desempenhando o seu papel na guerra para salvar a humanidade."/>
+    <entry name="AstraMilitarum/Psykers" value="Coven Psyker"/>
+    <entry name="AstraMilitarum/PsykersDescription" value="Edifício que produz psykers e também gera energia e influência."/>
+    <entry name="AstraMilitarum/PsykersFlavor" value="Enquanto a tempestade de guerra se intensifica, o uso de psykers em tempos de paz – como astropatas, para comunicação de longo alcance – é inútil. Da mesma forma, sem conseguir alcançar os Navios Negros, os psykers indesejados não podem ser transportados para a Terra para serem sacrificados no Trono Dourado. Em vez disso, a maioria é executada, com alguns selecionados convocados para o serviço imperial como Psykers Sancionados"/>
+    <entry name="AstraMilitarum/Research" value="Oficial Tático"/>
+    <entry name="AstraMilitarum/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="AstraMilitarum/ResearchFlavor" value="Aprender a ser oficial do Astra Militarum é uma tarefa ingrata e muitas vezes letal. Uma das postagens mais seguras é no Officio Tactica, onde as mentes táticas mais inteligentes analisam as manobras militares em andamento e consultam os copiosos textos do Tactica Imperialis para obter conselhos bem testados. Eles também registram suas campanhas atuais, para que as gerações futuras possam aprender com elas."/>
+    <entry name="AstraMilitarum/Upgrades" value="Mecânico do Culto"/>
+    <entry name="AstraMilitarum/UpgradesDescription" value="Edifício que produz Engenheiros Techpriest e gera pesquisas."/>
+    <entry name="AstraMilitarum/UpgradesFlavor" value="A adoração dos Techpriests ao 'Omnissiah', um deus-máquina, certamente seria desaprovada, se não fosse por sua utilidade. Em vez disso, existe um acordo tácito; os Techpriests reconhecem publicamente que o Imperador era o Omnissiah e o Administratum concorda em não bisbilhotar muito de perto."/>
+    <entry name="AstraMilitarum/Vehicles" value="Fabricante"/>
+    <entry name="AstraMilitarum/VehiclesDescription" value="Edifício que produz veículos terrestres e também gera minério e pesquisa."/>
+    <entry name="AstraMilitarum/VehiclesFlavor" value="Chamar um Manufactorum Imperial de “fábrica” é o mesmo que chamar um Diabo Catachan de inseto. Essas estruturas ciclópicas são templos enormes e ameaçadores ao Deus Máquina, onde seus milagres – aqui veículos de guerra – são criados. Dentro deles, humildes servos estão condenados a nunca ver a superfície do planeta, enquanto ministram incessantemente aos abençoados motores de Marte"/>
+    <entry name="ChaosSpaceMarines/Aircraft" value="Ninho Assombrado"/>
+    <entry name="ChaosSpaceMarines/AircraftDescription" value="Edifício que produz holdingrakes e também gera lealdade e influência."/>
+    <entry name="ChaosSpaceMarines/AircraftFlavor" value="Há 10.000 anos, os Heldrakes eram naves de combate, pilotadas pela nata do Adeptus Astartes. Agora, eles são amálgamas horríveis de homem e máquina, formados por milênios de guerra em criaturas semelhantes a dragões que vivem para lutar. Este ninho artificial permite que os Warpsmiths e o Master of Possession monitorem os Heldrakes e até mesmo tentem replicar sua criação milenar."/>
+    <entry name="ChaosSpaceMarines/Construction" value="Forja de Urdidura"/>
+    <entry name="ChaosSpaceMarines/ConstructionDescription" value="Edifício que constrói novos edifícios, além de gerar minério e influência."/>
+    <entry name="ChaosSpaceMarines/ConstructionFlavor" value="Embora as Soul Forges dos Warpsmiths estejam nas profundezas do Reino do Caos e, portanto, inacessíveis de Gladius, o Caos não é nada senão flexível. Essas Forjas Warp são mantidas quentes pelo sacrifício diário de milhares de civis, capturados nas ruínas de seu Mundo Colmeia caído, para trazer os edifícios do Caos para uma existência brilhante."/>
+    <entry name="ChaosSpaceMarines/Cult" value="Culto do Caos"/>
+    <entry name="ChaosSpaceMarines/CultDescription" value="Edifício que produz unidades especiais do Caos e aumenta a lealdade."/>
+    <entry name="ChaosSpaceMarines/CultFlavor" value="O que são deuses sem seguidores? Aqui, Cultistas e Apóstolos das Trevas conspiram para trazer convertidos à adoração do Caos - o que não é uma tarefa difícil para Gladius, uma vez que as pessoas veem o desumano Xenos, os efeitos indubitáveis dos poderes dos Deuses das Trevas e as formas demoníacas que permanecem na capela-mor. "/>
+    <entry name="ChaosSpaceMarines/Energy" value="Gerador Warpbound"/>
+    <entry name="ChaosSpaceMarines/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="ChaosSpaceMarines/EnergyFlavor" value="Os Techpriests of Chaos caídos - agora os Warpsmiths of the Dark Mechanicum - tiveram dez mil anos calibrando seus dispositivos além das restrições do Omnissiah. Tão poderosa quanto um Gerador de Plasma convencional, esta fonte de energia pode ser construída rapidamente no local. Seu espírito demoníaco extrai energia do brilho de uma lágrima para o Empíreo para carregar um dispositivo de movimento infernal."/>
+    <entry name="ChaosSpaceMarines/Food" value="Renderizador"/>
+    <entry name="ChaosSpaceMarines/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="ChaosSpaceMarines/FoodFlavor" value="Suas tropas estão, em sua maioria, além dos desejos mortais – mas os homens-fera, mutantes e escravos que governam suas cidades não estão. Para lhes fornecer comida, corpos de todos os tipos são trazidos para as estações de processamento, para proporcionar prazer aos degenerados Slaaneshi que os dirigem e comida para os trabalhadores em massa – os mais fortes, pelo menos. Os mais fracos são o jantar."/>
+    <entry name="ChaosSpaceMarines/Loyalty" value="Prado da Tristeza"/>
+    <entry name="ChaosSpaceMarines/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="ChaosSpaceMarines/LoyaltyFlavor" value="Não pode ter sido um seguidor de Khorne quem chamou esta planície de “prado” – a alegoria não é concomitante às tropas do Deus do Sangue. Quem quer que a tenha cunhado, a metáfora é adequada – as fileiras cuidadosamente plantadas, cuidadas conscientemente, as lacunas preenchidas novamente à medida que se esvaziam. Mas os Slaaneshi cultivam esses campos, constantemente inventando prazeres profanos para a honra de seu Deus, às custas de suas vítimas"/>
+    <entry name="ChaosSpaceMarines/Headquarters" value="Fortaleza Negra"/>
+    <entry name="ChaosSpaceMarines/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="ChaosSpaceMarines/HeadquartersFlavor" value="Mesmo dez mil anos de heresia não eliminaram totalmente o treinamento de um Traidor. Assim como seus colegas Adeptus Astartes, os Fuzileiros Navais Traidores preferem operar a partir de uma posição defensiva segura e bem construída, de preferência construída pelos Guerreiros de Ferro. Isto funciona como uma base de operações avançadas para seus ataques e pilhagens."/>
+    <entry name="ChaosSpaceMarines/Heroes" value="Alojamentos do Senhor"/>
+    <entry name="ChaosSpaceMarines/HeroesDescription" value="Edifício que produz heróis e também gerainfluência e aumenta a lealdade."/>
+    <entry name="ChaosSpaceMarines/HeroesFlavor" value="Chamar qualquer fuzileiro naval do espaço do caos - assassinos, sádicos, psicopatas e monstros para um homem - um 'herói' é uma contradição em termos. Mas há exemplos excepcionais deles, os Feiticeiros, Mestres e Campeões do Caos que lideram bandos de guerra e seguem os ditames e comandos dos Deuses. Aqui, eles se reúnem, sob o olhar atento de seu Senhor."/>
+    <entry name="ChaosSpaceMarines/Housing" value="Canetas Cativas"/>
+    <entry name="ChaosSpaceMarines/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="ChaosSpaceMarines/HousingFlavor" value="De todos os deuses, apenas o Padre Nurgle parece cuidar dos seus adoradores. E seus adoradores cuidam dos escravos que operam a cidade, confinando-os em locais perfeitos para gerar doenças e pestilências, enquanto mantêm um número suficiente deles física e mentalmente robustos para desempenhar os muitos papéis horríveis que seus mestres caídos de Astartes exigem deles"/>
+    <entry name="ChaosSpaceMarines/Infantry" value="Genelab do Abominador"/>
+    <entry name="ChaosSpaceMarines/InfantryDescription" value="Edifício que produz infantaria e também gera alimentos e pesquisas."/>
+    <entry name="ChaosSpaceMarines/InfantryFlavor" value="Nem todos os Chaos Space Marines datam do 30º milénio – outros são recrutados entre civis, brutalmente alterados com sementes genéticas retiradas de um fuzileiro naval caído. Neste laboratório genealógico, Boticários caídos operam nos cultistas mais fortes retirados das Colmeias arruinadas de Gladius. Os poucos que sobrevivem às operações dos Abominadores recebem glândulas Progenóides implantadas e são recrutados como novos Fuzileiros Navais do Espaço do Caos."/>
+    <entry name="ChaosSpaceMarines/Influence" value="Altar ao Caos"/>
+    <entry name="ChaosSpaceMarines/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="ChaosSpaceMarines/InfluenceFlavor" value="Chaos Undivided é uma contradição em termos. Olhando para os Demônios de cada Deus - os Horrores risonhos, os Portadores da Peste monótonos, os Bloodletters furiosos, os Daemonettes ofegantes - nada poderia ser mais diferente. No entanto, este altar revela a semelhança brutal por trás do Caos: uma pedra escura. Solo encharcado de sangue. A faca levantada. E as bacanais."/>
+    <entry name="ChaosSpaceMarines/Ore" value="Minas de Escravos"/>
+    <entry name="ChaosSpaceMarines/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="ChaosSpaceMarines/OreFlavor" value="Até mesmo os Orks têm maneiras melhores de extrair metal do solo do que esta – mas a preocupação dos Senhores do Caos com seus servos é menos em prevenir o sofrimento e mais em garanti-lo. Estas minas são extremamente cruéis, concebidas para suscitar esperança, antes de a esmagar. Eles cultivam almas torturadas para o Caos tanto quanto cultivam minério."/>
+    <entry name="ChaosSpaceMarines/Research" value="Arquivo dos Caminhos"/>
+    <entry name="ChaosSpaceMarines/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="ChaosSpaceMarines/ResearchFlavor" value="Nos mundos Daemon, os contadores de histórias falam de uma biblioteca perdida que contém todos os pensamentos de Tzeentch. Em sua riqueza, dizem eles, rivaliza com a Biblioteca Negra de Aeldari ou com a infinidade sem sentido da Biblioteca de Babel. Quer existam as memórias de Tzeentch, um Arquivo dos Caminhos é um reflexo do mundo real desse mito do mundo falso - um lugar onde verdades podem ser criadas, não descobertas."/>
+    <entry name="ChaosSpaceMarines/Vehicles" value="Fabricante Infernal"/>
+    <entry name="ChaosSpaceMarines/VehiclesDescription" value="Edifício que produz veículos terrestres e também gera minério e influência."/>
+    <entry name="ChaosSpaceMarines/VehiclesFlavor" value="Normalmente confinadas às Soul Forges of the Warp, essas estruturas mecanóides incompreensíveis são responsáveis pela criação de todos os veículos Daemon. Aqui, Warpsmiths envoltos em Mechatendril supervisionam a quebra e corrupção de Espíritos de Máquina de veículos Imperiais capturados, bem como a incorporação forçada de Daemons Menores, máquinas e carne torturada em Motores Daemon."/>
+    <entry name="CompendiumFlavor" value="Das favelas dos Orks às colméias de bilhões de pessoas do Imperium, aos mundos espaciais dos Craftworlds dos Aeldari, à antiga mastaba dos Necrons, quase todas as raças produzem estruturas para satisfazer suas necessidades - seja construção , abrigo ou apenas orgulho. Talvez apenas os Tyranids, em sua busca insaciável por novos materiais biológicos, careçam de estruturas permanentes, contando em vez disso com uma série de organismos reprodutores semimóveis..."/>
+    <entry name="Drukhari/Aircraft" value="Áries"/>
+    <entry name="Drukhari/AircraftDescription" value="Edifício que produz aeronaves e também gera energia, pesquisa e minério."/>
+    <entry name="Drukhari/AircraftFlavor" value="As antigas torres de Commorragh abrigam horrores por dentro e por fora. No topo deles estão as casas dos Flagelos e dos Demônios, Drukhari que navegam nas correntes de ar que sobem das profundezas impossíveis da cidade impossível, das máquinas, do tormento e da morte. Mesmo aqui, no mundo condenado de Gladius Prime, esses monstros etéreos têm o seu lugar."/>
+    <entry name="Drukhari/Construction" value="Propriedade do capataz"/>
+    <entry name="Drukhari/ConstructionDescription" value="Edifício que constrói novos prédios e também colhe minério, gera pesquisas e aumenta o crescimento."/>
+    <entry name="Drukhari/ConstructionFlavor" value="“Tão grande era o medo, tão horríveis os castigos, que a ameaça da dor era uma motivação muito maior do que a própria dor, por isso raramente precisávamos usá-la. Mas foi o que fizemos, uma tortura imprevisível impulsionada por nossa depravação insidiosa e nossos trabalhadores responderam com entusiasmo...' - Ilthea, a Desaparecida, ex-Arconte do Coração Murchado Kabal, prisioneira do Inquisidor Jey Carnaa."/>
+    <entry name="Drukhari/Energy" value="Ilmeia"/>
+    <entry name="Drukhari/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="Drukhari/EnergyFlavor" value="Como os antigos Aeldari capturaram os corações das estrelas moribundas e os transportaram para seus portos comerciais na web é impossível de explicar fora de equações obscuras. Ainda assim, essas estrelas escuras agora fornecem energia para toda Commorragh. Em ataques no espaço real, para obter energia, os Drukhari empregam um dispositivo gerador que reflete a glória dessas estrelas torturadas"/>
+    <entry name="Drukhari/Food" value="Toca de Sustento"/>
+    <entry name="Drukhari/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="Drukhari/FoodFlavor" value="Os próprios Drukhari comem pouco, subsistindo principalmente do sofrimento das suas vítimas e dos trabalhadores contratados. O que consomem são luxos inusitados, repletos de angústia, produzidos imediatamente.despesa provável. Mas o grande número dos seus trabalhadores necessita de comida para realizar as terríveis tarefas que lhes são exigidas, e eles produzem-na aqui, de forma eficiente, sem desperdiçar nada"/>
+    <entry name="Drukhari/Headquarters" value="Fortaleza dos Invasores"/>
+    <entry name="Drukhari/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="Drukhari/HeadquartersFlavor" value="— Oh, Commorragh sombrio, como sinto sua falta. Suas ruas de dor e icor, as delícias de seus jardins escuros, o rugido da multidão na arena, as torres infestadas de demônios dos Arcontes... em minha cela, lembranças são tudo que tenho.' - Ilthea the Faded, ex-arconte do Withered Heart Kabal, prisioneira do Inquisidor Jey Carnaa."/>
+    <entry name="Drukhari/Heroes" value="Arranha-estrelas"/>
+    <entry name="Drukhari/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+    <entry name="Drukhari/HeroesFlavor" value="As torres de Commorragh começam nos antigos distritos comerciais do Império Aeldari, mas estendem-se através da Dimensão do Labirinto, ligadas através de sua física não-euclidiana por pontes esbeltas. Aqui vivem os Arcontes, Draconianos e líderes dos Kabals, em relativo luxo e segurança."/>
+    <entry name="Drukhari/Housing" value="Covil da Gaiola"/>
+    <entry name="Drukhari/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="Drukhari/HousingFlavor" value="Os Cabalitas e Wyches não vivem aqui, é claro – a maioria deles retornam para Commorragh entre os ataques. Mas os antigos cidadãos das principais cidades colmeias de Gladius Prime são agora, ah, trabalhadores contratados dos Drukhari. A acomodação – gaiolas de malha aberta aos elementos, patrulhadas por guardas sádicos – é apenas um pouco pior do que a que os humanos estavam acostumados"/>
+    <entry name="Drukhari/Infantry" value="Fortaleza Cabalita"/>
+    <entry name="Drukhari/InfantryDescription" value="Edifício que produz infantaria, além de gerar influência e alimentos e aumentar o limite populacional."/>
+    <entry name="Drukhari/InfantryFlavor" value="Os Kabals of the Dark Eldar são uma mistura de cartel criminoso, fraternidade pirata e família nobre, como a antiga Máfia da Terra ou Tríades. Um Kabal leva apenas o melhor (ou o pior) da sociedade Drukhari – sádicos, ladrões, assassinos – em outras palavras, os pilares da comunidade Drukhari. Eles também fornecem a força militar de Commorragh, implantada em sua defesa ou em ataques espaciais reais."/>
+    <entry name="Drukhari/Influence" value="monturos ósseos"/>
+    <entry name="Drukhari/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="Drukhari/InfluenceFlavor" value="Este enorme ossuário é composto por milhões de esqueletos, representativos de cada espécie autoconsciente existente, variando em tamanho de insetos a enormes colossos, posicionados em quadros sombrios e batalhas simuladas. É um reflexo da tortura e morte mais ampla que ocorreu ao longo da reivindicação Drukhari."/>
+    <entry name="Drukhari/Loyalty" value="Arena de Culto"/>
+    <entry name="Drukhari/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="Drukhari/LoyaltyFlavor" value="Os eternos Wyches e Súcubos das Arenas Drukhari tratam seu combate assassino como o máximo da elegância, aparecendo elegantemente vestidos na última moda para decapitar e atormentar grupos de combatentes ao mesmo tempo, em estilos que definirão o assassinato por muitas e muitas horas. O público participa do sofrimento e do entretenimento, emergindo revigorado e revigorado pelo massacre em massa."/>
+    <entry name="Drukhari/Ore" value="Permuta-Porto"/>
+    <entry name="Drukhari/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="Drukhari/OreFlavor" value="Nos cosmopolitas portos de troca do império Drukhari, todas as raças podem ser encontradas, como mercenários, como comerciantes e até mesmo como mercadorias comerciais. Tudo o que se pode sonhar pode ser encontrado ali, roubado ou trocado. Este tênue reflexo de sua glória troca a riqueza de Gladius Prime por metais."/>
+    <entry name="Drukhari/Research" value="Laboratório de Hemonculi"/>
+    <entry name="Drukhari/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="Drukhari/ResearchFlavor" value="Os cruéis e antigos Drukhari conhecidos como Haemonculi vivem nas profundezas escuras da Cidade das Trevas. Aqui eles realizam experimentos físicos com os fracos, desesperados ou contratados, transformando-os em Destroços, Grotescos, Cronos e muito mais. O conhecimento perdido nos crânios retorcidos desses imortais pode ser recuperado, mas o sacrifício é tentar a comunicação..."/>
+    <entry name="Drukhari/Vehicles" value="Fundição Escura"/>
+    <entry name="Drukhari/VehiclesDescription" value="Edifício que produz veículos terrestres e criaturas monstruosas, além de colher minério e gerar pesquisas."/>
+    <entry name="Drukhari/VehiclesFlavor" value="As fundições de materiais de Commorragh existem nas profundezas da cidade, onde incontáveis trabalhadores Drukhari e xenos vivem e morrem sem nunca ver a luz de seus sóis negros, mantidos em constante dor, tormento e miséria, movidos pelo medo da morte. Os requisitadores da Kabal fazem o possível para replicar esse ideal onde quer que viajem"/>
+    <entry name="Eldar/Aircraft" value="Pináculo do Portal"/>
+    <entry name="Eldar/AircraftDescription" value="Edifício que produz aeronaves e também gera energia, pesquisa e influência."/>
+    <entry name="Eldar/AircraftFlavor" value="Erguida bem acima do solo, esta abertura enrolada da Webway permite que as aeronaves Aeldari viajem diretamente do immaterium para Gladius Prime, enquanto têm uma transição mais lenta de pressão do ar, composição e gravidade local em comparação com as formas sobrenaturais presentes no espaço retorcido entre as estrelas"/>
+    <entry name="Eldar/Construction" value="Capela dos Bonesingers"/>
+    <entry name="Eldar/ConstructionDescription" value="Edifício que constrói novos prédios e também colhe minério, gera pesquisas e aumenta o crescimento."/>
+    <entry name="Eldar/ConstructionFlavor" value="Muitos dos caminhos que os Aeldari trilham em suas longas vidas são não-violentos, na verdade, a maioria é, pois os Aeldari do Craftworld foram aqueles que rejeitaram as vidas hedonistas de seus pares por uma vida de contemplação. Bonesingers são artesãos que manipulam psiquicamente Wraithbone nas estruturas e máquinas que os Aeldari usam."/>
+    <entry name="Eldar/Energy" value="Gerador Termo Plasma"/>
+    <entry name="Eldar/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="Eldar/EnergyFlavor" value="Muito mais elegante do que seus equivalentes imperiais, este gerador de plasma portátil foi trazido pela web com grande risco. Ele usa tecnologia semelhante à versão Imperial, mas tem uma produção muito maior para um dispositivo muito menor."/>
+    <entry name="Eldar/Food" value="Jardins de Isha"/>
+    <entry name="Eldar/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="Eldar/FoodFlavor" value="No mito Aeldari, Isha era a mãe dos Aeldari, que os trouxe à existência e os protegeu de Khaine. Ela também é considerada uma das três divindades Aeldari sobreviventes, presas no domínio do Deus do Caos Nurgle. Nestes jardins de Gladius, os Aeldari que trilham o Caminho do Artesão seguem seus ensinamentos e cultivam alimentos frescos e saudáveis para as forças Aeldari locais. Sua contribuição para a vida Aeldari é considerada tão valiosa quanto a de qualquer guerreiro ou vidente"/>
+    <entry name="Eldar/Headquarters" value="Reduto Webway"/>
+    <entry name="Eldar/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="Eldar/HeadquartersFlavor" value="A Webway confunde Gladius Prime, mas muitos dos portais foram perdidos. Mesmo aqueles que sobrevivem são inimaginavelmente antigos, mas ainda permanecem, ignorados pelas raças mais jovens. Ao redor deles, os Aeldari constroem posições e maquinários, para estabilizar os portais, renovar a conexão com o immaterium e defendê-lo contra incursões"/>
+    <entry name="Eldar/Heroes" value="Santuário de Khaine"/>
+    <entry name="Eldar/HeroesDescription" value="Edifício que produz heróis e também gera pesquisa e influência."/>
+    <entry name="Eldar/HeroesFlavor" value="Embora Asuryan fosse a principal divindade dos Aeldari, seu irmão Khaine era seu rival no poder. Todos os guerreiros se dedicam a Khaine, e aqueles que se perdem no Caminho da Guerra tornam-se seus Exarcas e Autarcas. Em contraste, aqueles que se perdem no Caminho do Vidente tornam-se Videntes, incapazes de retornar aos outros caminhos que possam ter trilhado - e os Aeldari não consideram que valha a pena sacrificar a liberdade pelo poder"/>
+    <entry name="Eldar/Housing" value="Salões Fantasmas"/>
+    <entry name="Eldar/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="Eldar/HousingFlavor" value="Enquanto Asuryan estava morrendo, consumido por Slaanesh, ele abençoou os Aeldari; deu-lhes vida longa e grande poder psíquico; mas ele também condenou a fertilidade deles. Com o tempo, o número de Aeldari diminuiu até agora, quando os grandes salões que antes abrigavam milhões abrigam apenas milhares. Aqui, em Gladius Prime, os salões fantasmas proporcionam um gostinho da vida luxuosa dos Aeldari para aqueles que não lutam em campo."/>
+    <entry name="Eldar/Infantry" value="Crisol de Asuryan"/>
+    <entry name="Eldar/InfantryDescription" value="Edifício que produz infantaria, além de gerar pesquisas e aumentar a fidelização."/>
+    <entry name="Eldar/InfantryFlavor" value="Asuryan, o Rei Fênix, foi o chefe dos Deuses Aeldari e o último a ser consumido por Slaanesh durante a queda dos Aeldari. Ele tem sido uma inspiração para os Aeldari do Craftworld, que muitas vezes se referem a si mesmos como 'Asuryani'. Neste ponto de encontro, os recém-chegados ao Gladius são equipados e designados para esquadrões antes de serem testados em campo"/>
+    <entry name="Eldar/Influence" value="Cúpula dos Videntes"/>
+    <entry name="Eldar/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="Eldar/InfluenceFlavor" value="Quando se vê o rendilhado do osso do espectro crescendo no céu; quando se ouve uma canção sobrenatural de um trabalhador que viveu mais tempo do que o Império existiu; quando se vê uma figura elegante falando com autoridade sobre o futuro que está por vir; talvez você possa admitir que os Aeldari têm bons motivos para se comportar com arrogância..."/>
+    <entry name="Eldar/Loyalty" value="Monte de pedras de Ulthanesh"/>
+    <entry name="Eldar/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="Eldar/LoyaltyFlavor" value="Eldanesh foi o primeiro Aeldari. Ele e seu parente Ulthanesh foram os dois maiores heróis da mitologia Aeldari, lutando contra os inimigos do novo povo ao lado de Khaine, o Deus da Guerra. Eventualmente, os dois heróis se desentenderam e Ulthanesh seguiu seu próprio caminho. Mas quando Khaine matou Eldanesh de raiva, Ulthanesh lutou ao lado da casa de seu parente contra o deus e tornou-se proverbial por sua lealdade"/>
+    <entry name="Eldar/Ore" value="Altmarl de Vaul"/>
+    <entry name="Eldar/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="Eldar/OreFlavor" value="O deus ferreiro Vaul era conhecido por suas criações fantásticas. Embora os mitos sobreviventes se concentrem principalmente em suas armas (principalmente em suas cem espadas), ele criou muitos dispositivos que os Aeldari ainda usam hoje - como esta mina automatizada, que requer supervisão mínima para extrair o minério necessário para suas outras criações"/>
+    <entry name="Eldar/Research" value="Ossário dos Espíritos"/>
+    <entry name="Eldar/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="Eldar/ResearchFlavor" value="Aqui, os videntes espirituais interrogam as pedras espirituais dos mortos. Os Aeldari não inventam e raramente pesquisam hoje em dia - sua tecnologia está em grande parte estagnada, tendo sido herdada dos Antigos, mas ao contrário do sacerdócio Imperial de Marte, eles pelo menos entendem sua função. Aqui eles podem consultar as mentes mais sábias de sua história em busca de soluções para qualquer problema - embora sua resposta nem sempre seja clara ou rápida"/>
+    <entry name="Eldar/Vehicles" value="Maior ingresso"/>
+    <entry name="Eldar/VehiclesDescription" value="Edifício que produz veículos terrestres, além de colher minério e gerar pesquisas."/>
+    <entry name="Eldar/VehiclesFlavor" value="Esta extensão do Portal Webway permite que veículos maiores acessem o Gladius Prime. Sem ela, as forças Aeldari seriam apenas infantaria e motos a jato – o suficiente para uma Trupe Arlequim ou uma vanguarda Biel-Tan, talvez, mas não para um verdadeiro esforço de guerra"/>
+    <entry name="Necrons/Aircraft" value="Calçada Sem Nome"/>
+    <entry name="Necrons/AircraftDescription" value="Edifício que produz aeronaves e também gera energia, influência e aumenta a fidelização."/>
+    <entry name="Necrons/AircraftFlavor" value="Se os Necron são temidos em todo o universo conhecido, suas aeronaves são duplamente temidas. A Doom Scythe e a Night Scythe são rápidas, resistentes e mortais para oponentes blindados. Lançando-se de uma extensão de pedra desolada, eles devastam os inimigos com seus ataques irresistíveis."/>
+    <entry name="Necrons/Construction" value="Escravo Mastaba"/>
+    <entry name="Necrons/ConstructionDescription" value="Edifício que constrói novos edifícios e também gera energia, influência e aumenta a fidelização."/>
+    <entry name="Necrons/ConstructionFlavor" value="Todo mundo tem um lugar na sociedade Necron. As raças de carne fraca dos Antigos vivem seus dias sob abrigos rudimentares, onde sobrevivemsua própria comida, antes de serem enviados para escavar as tumbas há muito enterradas dos Necron e recuperar os Necrons adormecidos."/>
+    <entry name="Necrons/Energy" value="Núcleo Energético"/>
+    <entry name="Necrons/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="Necrons/EnergyFlavor" value="Qualquer que seja a tecnologia barroca que os Necron usam em seus grandes Núcleos de Energia, ela supera até mesmo o Ionizador de Plasma Imperial em termos de poder absoluto - e é necessário, visto que a dinastia Necron depende de suas fontes de energia como outras raças dependem de água ou comida. "/>
+    <entry name="Necrons/Loyalty" value="Santuário Barroco"/>
+    <entry name="Necrons/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="Necrons/LoyaltyFlavor" value="Enquanto as Estelas falam das vitórias e glórias do antigo Necrontyr, este Santuário conta uma história mais sombria. Ele detalha sua conversão ao metal e subjugação pelos C'tan, e de Szarekh, o Rei Silencioso, e sua tão planejada traição e destruição dos Deuses Estelares devoradores de almas. Mesmo entre os Necrons sem alma, isso inspira reverência."/>
+    <entry name="Necrons/Headquarters" value="Corte Real"/>
+    <entry name="Necrons/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="Necrons/HeadquartersFlavor" value="A sede do Necron Phaeron e sua corte é um grande edifício sombrio, um dos poucos grandes edifícios Necron que não foram originalmente construídos para venerar os mortos. Em vez disso, suas paredes de proteção são um reflexo simbólico da intensa radiação que os Necrons sofreram, há muito tempo, em seu mundo natal original, quando ainda eram criaturas fracas de carne e osso."/>
+    <entry name="Necrons/Heroes" value="Pirâmide Real"/>
+    <entry name="Necrons/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+    <entry name="Necrons/HeroesFlavor" value="A tumba do Phaeron, Overlord ou Lord e sua corte, é aqui que todos os retentores mais leais e importantes se retiraram para dormir durante séculos até que o universo estivesse pronto novamente. Mesmo agora, grandes heróis ainda dormem em seu âmago, aguardando o chamado de seus Senhores"/>
+    <entry name="Necrons/Housing" value="Abrigos"/>
+    <entry name="Necrons/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="Necrons/HousingFlavor" value="Dada a falta de água, comida ou entretenimento do Necron médio, esses abrigos não se parecem com um abrigo humano ou mesmo com uma cabana Ork. Em vez disso, eles estão a meio caminho entre um quartel, uma tumba e uma oficina, onde as construções Crypteks e Canoptek se movem entre os guerreiros Necron adormecidos, mantendo-os e reparando-os sem parar"/>
+    <entry name="Necrons/Infantry" value="Núcleo de Invocação"/>
+    <entry name="Necrons/InfantryDescription" value="Edifício que produz infantaria e criaturas, além de gerar pesquisas e aumentar a lealdade."/>
+    <entry name="Necrons/InfantryFlavor" value="Despertar as tropas há muito desativadas de uma dinastia Necron é um trabalho lento, assim como reparar aqueles que caem no campo. Os Canopteks e Crypteks do Summoning Core salvam diligentemente aqueles que retornam à cidade - e desmantelam o resto para sua rara Necrodermis."/>
+    <entry name="Necrons/Influence" value="Estelas"/>
+    <entry name="Necrons/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="Necrons/InfluenceFlavor" value="Imponentes colunas de pedra e metal antigas que perfuram o céu, cada Estela registra o reinado de um antigo Phaeron da dinastia Necron. Ver os registros de milênios de dominação implacável faz com que até o cidadão mais impassível do Império se acovarde"/>
+    <entry name="Necrons/Ore" value="Pedreira Al-Khemic"/>
+    <entry name="Necrons/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="Necrons/OreFlavor" value="Para encontrar os materiais raros que os Crypteks precisam para manter e reparar a necroderme de metal vivo e o armamento das tropas Necron, os escravos vivem e morrem em suas pedreiras e fundições de Al-Khemic. Apenas uma pequena fração da produção é usada – mas é fundamental para a sobrevivência dos Necrons."/>
+    <entry name="Necrons/Research" value="Arquivo Proibido"/>
+    <entry name="Necrons/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="Necrons/ResearchFlavor" value="Antes da queda, os Necron Crypteks já eram mestres da tecnologia sobrenatural, capazes de manipular matéria e energia de maneiras que pareciam mágicas para raças inferiores. Com a imortalidade vieram gerações de aprendizado, e os conclaves Cryptek tornaram-se mais poderosos do que nunca - mas os milênios os deixaram estagnados. Nestes arquivos, o Conclave escava em busca da sabedoria dos antigos, em vez de descobrir novamente os segredos do universo."/>
+    <entry name="Necrons/Vehicles" value="Templo Hipostilo"/>
+    <entry name="Necrons/VehiclesDescription" value="Edifício que produz veículos terrestres, além de gerar energia e aumentar a fidelização."/>
+    <entry name="Necrons/VehiclesFlavor" value="Este edifício de telhado alto é revestido por pilares no interior. Entre eles repousam ou flutuam as grandes máquinas de guerra dos Necrons. Arcas do Juízo Final desativadas, Barcaças de Aniquilação, Monólitos e Obeliscos aguardam em fileiras cerradas pelo dia em que um Senhor pedirá seu reparo e eles poderão liderar seus exércitos mais uma vez."/>
+    <entry name="Orks/Beasts" value="Runtherd Groundz"/>
+    <entry name="Orks/BeastsDescription" value="Prédio que produz feras, gera alimentos e aumenta a fidelização."/>
+    <entry name="Orks/BeastsFlavor" value="Os Runtherds fazem grande parte do trabalho pesado na sociedade Ork, supervisionando os Grots que constroem tudo, os Squigs que fornecem quase todos os recursos e os pequenos Snots que são cuidadores e alimentos para os Squigs. No entanto, com base nisso, eles também supervisionam projetos maiores, como o treinamento de tripulações de armas Grotz e a criação de Squiggoths gigantes"/>
+    <entry name="Orks/Colonizers" value="Pátio Mek Bitz"/>
+    <entry name="Orks/ColonizersDescription" value="Edifício que produz Meks e Mek Gunz e também gera pesquisas."/>
+    <entry name="Orks/ColonizersFlavor" value="Um Mek nunca sabe quando a inspiração vai surgir e de repente ele precisa de um Thingummy ou de um Whatyamacallit para sua última invenção. Por esta razão, o pátio de um Mek está cheio de veículos, máquinas e ferramentas quebradas, caso ele precise de alguma coisa repentinamente à mão, com equipes de lúgubres Grotz transportando incessantemente mais coisas"/>
+    <entry name="Orks/Construction" value="Sucata Shedz"/>
+    <entry name="Orks/ConstructionDescription" value="Edifício que constrói novos edifícios, gera minério e influência, além de aumentar o limite populacional."/>
+    <entry name="Orks/ConstructionFlavor" value="Os edifícios Ork são construções deselegantes feitas de resíduos e qualquer sucata que os Meks não precisam. Os Grotz não são conhecidos por serem bons arquitetos, mas os Orks nãocontanto que consigam uma boa luta."/>
+    <entry name="Orks/Energy" value="Powwa Gubbinz"/>
+    <entry name="Orks/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="Orks/EnergyFlavor" value="Não vale a pena um Ork olhar muito de perto para os geradores que alimentam o seu mundo. Isso ocorre porque grande parte da tecnologia que Ork Meks produz está faltando partes importantes e não deveria funcionar de verdade - mas a crença psíquica concentrada de Orks de alguma forma substitui isso."/>
+    <entry name="Orks/Food" value="Squig Herdz"/>
+    <entry name="Orks/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="Orks/FoodFlavor" value="Squigz são essenciais para a sobrevivência da espécie Ork. Uma enorme variedade dessas pequenas criaturas acompanha cada Ork e preenche uma série de nichos sociais e tecnológicos - desde atuar como perucas, até fornecer óleo, até serem comidas como alimento."/>
+    <entry name="Orks/Loyalty" value="Lutando contra Pitz"/>
+    <entry name="Orks/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="Orks/LoyaltyFlavor" value="Os orks não estabelecem domínio pela persuasão, mas pela força bruta. Um Nob ou Warboss é simplesmente um Ork maior – e quanto mais eles lutam, maiores eles ficam. Lutas por domínio ou disputas são frequentemente resolvidas nos poços rituais, entretendo todo o Bando de Guerra no processo. (É um infeliz Ork que confunde esses poços com 'gotas' de aparência idêntica - os banheiros Ork.)"/>
+    <entry name="Orks/Headquarters" value="Torre do Chefe"/>
+    <entry name="Orks/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="Orks/HeadquartersFlavor" value="Uma vez que um Warboss tenha reunido um exército de um certo tamanho, ele não poderá mais comandar com simples agressões e palavrões que seus garotos aprenderam a amar. A Boss Tower funciona como um lugar para o chefe morar e um púlpito de onde ele pode gritar contra suas hordas."/>
+    <entry name="Orks/Heroes" value="Comando Camp"/>
+    <entry name="Orks/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+    <entry name="Orks/HeroesFlavor" value="O Clã de Orks Blood Axe é um tanto evitado por seus irmãos, por não serem 'verdadeiros Orks'. Isso ocorre porque eles se adaptaram à proximidade dos humanos ao longo dos milênios e adotaram alguns comportamentos nada Orky, como Taktiks e Runnin Away. Os Blood Axe Kommandos deram um passo além, usando camuflagem para surpreender seus inimigos."/>
+    <entry name="Orks/Housing" value="Grotz Hutz"/>
+    <entry name="Orks/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="Orks/HousingFlavor" value="Curiosamente, os Grotz 'Hutz são melhores que os dos Boyz. Claro, por fora eles parecem ainda mais decrépitos e degradados, enquanto o interior ainda é construído com lixo enfeitado com cogumelos, squigs e snotlings. Mas há um certo orgulho e personalização na miséria que falta aos barracos dos Boyz."/>
+    <entry name="Orks/Infantry" value="Pilha O'Dakka"/>
+    <entry name="Orks/InfantryDescription" value="Edifício que produz infantaria e caminhantes, além de gerar alimento e influência e aumentar a lealdade."/>
+    <entry name="Orks/InfantryFlavor" value="'O que é melhor do que uma arma?' pergunta um ork. 'Uma grande arma', responde outro. Pouco antes de a luta começar, eles concordam que, melhor ainda do que a maior arma, é uma grande pilha de armas grandes. É exatamente isso que temos aqui: armas feitas por Mek de todos os formatos e tamanhos, empilhadas livremente, prontas para serem agarradas por um Garoto ou Killa Kan quando a luta começar"/>
+    <entry name="Orks/Influence" value="Pólo estranho"/>
+    <entry name="Orks/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="Orks/InfluenceFlavor" value="Os psykers Ork conhecidos como Weirdboyz são um perigo nos momentos mais silenciosos, devido ao seu acúmulo interminável de Waaagh! energia - e no meio de uma horda, uma reação em cadeia de explosão cerebral é normal. Este poste de metal gigante é a resposta engenhosa dos Orks, aterrando as explosões psíquicas dos psykers enquanto eles estiverem amarrados a ele."/>
+    <entry name="Orks/Ore" value="Diggaz e Smeltaz"/>
+    <entry name="Orks/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="Orks/OreFlavor" value="Quando os Orks não conseguem sucata, eles ordenam que seus servos Grot desenterrem rochas ricas em minério. Enquanto os Snakebites ficam felizes em usar trabalho manual e chicotes, a maioria dos Meks dos clãs inventam invenções absurdas e grosseiras para extrair o minério, que têm vários graus de letalidade para seus azarados operadores Grot."/>
+    <entry name="Orks/Research" value="Tanque Fink"/>
+    <entry name="Orks/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="Orks/ResearchFlavor" value="Um dos mitos mais persistentes dos Orks é sobre seus criadores há muito desaparecidos, os 'Brainboyz', que eles acreditam ter codificado tecnologia altamente avançada nos genes dos Orks há eras atrás. Meks, Doks e Runtherdz são Orks que demonstram esse conhecimento – e o Fink Tank é um bom lugar para trancá-los até que se lembrem de outra boa ideia."/>
+    <entry name="Orks/Vehicles" value="Culto à Velocidade"/>
+    <entry name="Orks/VehiclesDescription" value="Edifício que produz veículos e aeronaves com rodas, além de gerar minério e influência, além de aumentar a fidelização."/>
+    <entry name="Orks/VehiclesFlavor" value="Embora ainda amem a guerra e grandes explosões, os Orks conhecidos como Speed Freeks amam ainda mais a velocidade. Eles personalizarão extensiva e obsessivamente suas motos e aeronaves, removendo todos os recursos de segurança, a ponto de ficarem sentados em um motor gigante pintado de vermelho porque 'red wunz go fasta'."/>
+    <entry name="SistersOfBattle/Auxiliaries" value="Reforços Eclesiárquicos"/>
+    <entry name="SistersOfBattle/AuxiliariesDescription" value="Edifício que produz aeronaves e cavaleiros imperiais, além de gerar requisições e energia."/>
+    <entry name="SistersOfBattle/AuxiliariesFlavor" value="Excepcionalmente para uma missão Adepta Sororitas, nem todas as tropas aqui são Irmãs de Batalha. Embora as outras forças locais do Império tenham provado ser indignas de confiança, a Marinha Imperial e as Casas de Cavaleiros restantes encontraram-se com lealdades divididas. Aqueles que se aliaram às Adepta Sororitas foram designados para estes edifícios pouco atraentes para alojamento, reparação e habitação."/>
+    <entry name="SistersOfBattle/Construction" value="Workshop Ministorum"/>
+    <entry name="SistersOfBattle/ConstructionDescription" value="Edifício que constrói novos edifícios e gera influência."/>
+    <entry name="SistersOfBattle/ConstructionFlavor" value="Pode ser mais primitivo do que os grandes fabricantes do Adeptus Mechanicus e do Adeptus Administratum, mas o que falta aos trabalhadores de uma oficina Ministorum em conhecimento técnicoAlém disso, eles compensam com fervor religioso e habilidade artesanal. Os edifícios que criam não são meramente funcionais – são obras de adoração e arte para o próprio Deus-Imperador"/>
+    <entry name="SistersOfBattle/Enclave" value="Comandante"/>
+    <entry name="SistersOfBattle/EnclaveDescription" value="Prédio sede menor que gera recursos."/>
+    <entry name="SistersOfBattle/EnclaveFlavor" value="Essas cidades-bastiões menores atuam como missões e pontos de preparação para as atividades da Adepta Sororitas em sua região. A partir daqui, pregadores e missionários aventuram-se nos perigosos desertos do destruído mundo das colméias, conquistando convertidos e garantindo a passagem segura dos recursos de volta à cidade mãe."/>
+    <entry name="SistersOfBattle/Energy" value="Geradores Munitorum"/>
+    <entry name="SistersOfBattle/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="SistersOfBattle/EnergyFlavor" value="Embora o Departmento Munitorum tenha a tarefa exclusiva de fornecer o Astra Militarum por toda a galáxia, algumas de suas tecnologias padronizadas são usadas por outras forças imperiais. Usando a antiga tecnologia de ionizador de plasma adorada por Marte, esses sistemas cuidadosamente resfriados podem manter 100 petawatts de potência com facilidade - embora sem Tech-Priests para mantê-los, os Adepta Sororitas normalmente os mantêm mais frios"/>
+    <entry name="SistersOfBattle/Headquarters" value="Preceptoria"/>
+    <entry name="SistersOfBattle/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="SistersOfBattle/HeadquartersFlavor" value="Centro dos esforços das Adepta Sororitas em Gladius Prime, esta cidade-fortaleza pode levar uma irmã do berço ao túmulo, passando-a pelo noviciado até se tornar uma verdadeira Irmã de Batalha. Tal cidade é a sede da fé deste mundo, vibrando com orações autocorais dia e noite, seu ar saturado com o cheiro de unguentos sagrados, óleos abençoados e hereges queimados. No entanto, sob as suas torres elevadas, a massa da humanidade trabalha, vive e morre despercebida."/>
+    <entry name="SistersOfBattle/Heroes" value="Priorado dos Legatines"/>
+    <entry name="SistersOfBattle/HeroesDescription" value="Edifício que produz heróis e Hospitalários, além de gerar influência e aumentar a lealdade."/>
+    <entry name="SistersOfBattle/HeroesFlavor" value="As Irmãs de mais alto escalão de uma Ordem são uma mistura de guerreiras, curadoras e líderes espirituais – mas nem todas têm posições formais, apesar do fervor e veneração que inspiram nos seus pares. Este convento serve de ponto de encontro para estes Legatinos quando afastados das suas ordens, com todas as comodidades dos santuários-lar, capelas, celas e locais de flagelação ritual."/>
+    <entry name="SistersOfBattle/Housing" value="Células Urbis"/>
+    <entry name="SistersOfBattle/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="SistersOfBattle/HousingFlavor" value="As celas das Adepta Sororitas são superiores às habitações comuns da população do Império? As celas são limpas, regulares, seguras e uniformes, sim, eliminando inveja, status e outros pecados. No entanto, os cidadãos da colméia também podem considerá-los tediosos, frios e punitivos, em comparação com a vida emocionante, embora curta, que eles experimentam nas cidades subterrâneas, nos planetas agronômicos e nos blocos habitacionais por toda a galáxia..."/>
+    <entry name="SistersOfBattle/Infantry" value="Capela de Batalha"/>
+    <entry name="SistersOfBattle/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar requisições."/>
+    <entry name="SistersOfBattle/InfantryFlavor" value="A fase final da carreira de um novato ocorre na Capela de Batalha. Aqui, o cantus é treinado no uso de seu armamento sagrado – bolter, flamer, melta – e confirmado em sua fé, à prova de heresia. Normalmente, uma vez treinada, ela visitaria o grande salão de um convento primário para ser designada para uma Ordem - mas em Gladius Prime, onde nenhuma fuga é possível, ela entra diretamente nas fileiras de suas irmãs, defendendo este mundo."/>
+    <entry name="SistersOfBattle/Influence" value="Dialogus Scriptorium"/>
+    <entry name="SistersOfBattle/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="SistersOfBattle/InfluenceFlavor" value="Seria falso chamar a ordem Dialogus de não-militante - nenhuma Battle Sister aceitaria isso - mas é mais verdade que o seu foco está longe da guerra física e psíquica, e mais na psicológica e na fiel. Neste Scriptorium, os seus discursos, orações e ditos inspiradores são transcritos, copiados por auto-escribas e divulgados por Gladius Prime, para inspirar a restante população a continuar a sobreviver..."/>
+    <entry name="SistersOfBattle/Loyalty" value="Missão Famulus"/>
+    <entry name="SistersOfBattle/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="SistersOfBattle/LoyaltyFlavor" value="Diplomacia e sutileza normalmente não são associadas aos fanáticos espumantes da Eclesiarquia ou à fé sombria das Irmãs de Batalha - mas aquelas raras irmãs que conseguem encantar e conspirar são designadas para a Ordem Famulus. Eles se movem com graça entre os poderosos do Império, mudando seu comportamento e sua criação para o bem maior do Império. Suas extensas e regulares conexões com a Inquisição são úteis quando eles encontram... problemas."/>
+    <entry name="SistersOfBattle/Requisitions" value="Depósito Ministorum"/>
+    <entry name="SistersOfBattle/RequisitionsDescription" value="Prédio que gera requisições."/>
+    <entry name="SistersOfBattle/RequisitionsFlavor" value="As Adepta Sororitas, embora leais à Terra, são abastecidas tanto por suas próprias redes quanto pela burocracia galáctica que é o Adeptus Administratum. De onde quer que seus recursos sejam trazidos, porém, eles terminam no mesmo lugar – os grandes armazéns ecoantes de um depósito do Ministorum"/>
+    <entry name="SistersOfBattle/Research" value="Relicário Pronato"/>
+    <entry name="SistersOfBattle/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="SistersOfBattle/ResearchFlavor" value="Como o infame capítulo Blood Ravens ou mesmo o Necron Lord Trazyn the Infinite, os Adepta Sororitas Orders Pronatus são conhecidos por suas tendências de acumulação. Porém, ao contrário das demais, as Ordens Pronatus são focadas: todo o seu propósito é reunir, estudar e guardar artefatos de valor para a Eclesiarquia. Seja uma relíquia sagrada ou uma arma perigosa, a Ordem Pronatus irá armazená-la e guardá-la até a última Irmã."/>
+    <entry name="SistersOfBattle/Vehicles" value="Hangar Ungido"/>
+    <entry name="SistersOfBattle/VehiclesDescription" value="Edifício que produz veículos terrestres e também gera requisições e pesquisas."/>
+    <entry name="SistersOfBattle/VehiclesFlavor" value="Os veículos do Adepta Sororitas são tanques de batalha de relíquias antigas de cruzadas antigas. Neste hangar, Exorcistas, Castigadores e Imoladores têm seus espíritos mecânicos revividos pelos técnicos do Ministorum, são aspergidos com óleos sagrados e encantamentos sagrados transmitidos por milhares de anos. Para os T'au e os Votann, isso seria uma grande superstição - mas as máquinas funcionam com uma eficiência mortal"/>
+    <entry name="SpaceMarines/Aircraft" value="Plataformas de lançamento"/>
+    <entry name="SpaceMarines/AircraftDescription" value="Edifício que produz aeronaves e também gera requisições e influência."/>
+    <entry name="SpaceMarines/AircraftFlavor" value="Área de preparação para as embarcações de assalto aéreo e transportes do Capítulo, de onde os irmãos de batalha podem embarcar em sua cruzada sem fim. Os navios de guerra ativos, interceptadores, embarcações de desembarque e até mesmo seus poderosos Thunderhawks do mosteiro-fortaleza estão alojados em uma colméia de hangares abaixo das plataformas de lançamento"/>
+    <entry name="SpaceMarines/Construction" value="Relé Orbital"/>
+    <entry name="SpaceMarines/ConstructionDescription" value="Edifício que constrói novos edifícios e gera influência."/>
+    <entry name="SpaceMarines/ConstructionFlavor" value="Em tempos normais, os vários Teleportaria seriam usados para transportar tropas de e para naves estelares próximas. Nestes tempos de guerra, o Relé Orbital desempenha uma função mais importante, comunicando-se com a Barcaça de Batalha em órbita baixa e solicitando requisições importantes para uma rápida implantação na superfície"/>
+    <entry name="SpaceMarines/Energy" value="Gerador"/>
+    <entry name="SpaceMarines/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="SpaceMarines/EnergyFlavor" value="Embora a luz do Imperador seja a verdadeira fonte da força de cada Capítulo, uma fonte de energia física também é necessária. A natureza exata do seu Generatorum difere de capítulo para capítulo. Os Lobos Espaciais, por exemplo, cravaram imensas hastes de cristal profundamente na superfície do planeta Fenris, transformando o calor subterrâneo na energia infinita que sua fortaleza-mosteiro exige"/>
+    <entry name="SpaceMarines/GeneseedBunker" value="Bunker Geneseed"/>
+    <entry name="SpaceMarines/GeneseedBunkerDescription" value="Edifício que armazena a semente genética do seu capítulo e gera influência."/>
+    <entry name="SpaceMarines/GeneseedBunkerFlavor" value="Usando todos os segredos dos espíritos das máquinas, os Techmarines projetaram esses bunkers para serem protegidos de todas as maneiras possíveis – física, eletromagnética e psiquicamente. Será necessário o trabalho de centenas de Servidores pesados, mas mesmo que os guerreiros de um Capítulo morram para um homem, os Boticários e a genética nesses bunkers serão capazes de ressuscitá-lo... eventualmente."/>
+    <entry name="SpaceMarines/Headquarters" value="Grande salão"/>
+    <entry name="SpaceMarines/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="SpaceMarines/HeadquartersFlavor" value="Cada fortaleza-mosteiro contém uma miríade de salões grandes o suficiente para abrigar vários exércitos, mas a maioria também tem um Grande Salão, peça central da casa de um Capítulo. Troféus, relíquias e até mesmo suas naves espaciais mais reverenciadas podem ser alojados no Salão Principal. Se a visão do Grande Salão não reduz o visitante a um silêncio estupefato, então ele falhou em seu propósito"/>
+    <entry name="SpaceMarines/Heroes" value="Reclusão"/>
+    <entry name="SpaceMarines/HeroesDescription" value="Edifício que produz heróis, além de gerar influência e aumentar a lealdade."/>
+    <entry name="SpaceMarines/HeroesFlavor" value="Para aquelas raras cerimônias que exigem a presença de todos os Irmãos de Batalha, a vastidão do Reclusiam permite que todo o Capítulo se reúna. Este é o lugar mais precioso de uma fortaleza-mosteiro que abriga suas relíquias mais sagradas e, em raras ocasiões, o próprio corpo de seu Primarca. É também a sede dos comandantes e heróis do capítulo."/>
+    <entry name="SpaceMarines/Housing" value="Dormitórios"/>
+    <entry name="SpaceMarines/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="SpaceMarines/HousingFlavor" value="Embora cada Irmão de Batalha receba sua própria cela pessoal, os membros de um Capítulo que não impõem diretamente a vontade do Imperador compartilham alojamentos comunitários espalhados por todo o mosteiro-fortaleza. A equipe de apoio, incluindo empregados, enfermeiras e técnicos, chama esses dormitórios de lar."/>
+    <entry name="SpaceMarines/Infantry" value="Boticário"/>
+    <entry name="SpaceMarines/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar pesquisas."/>
+    <entry name="SpaceMarines/InfantryFlavor" value="O Boticário fornece suporte médico para Irmãos de Batalha feridos e desempenha um papel vital na elevação de um Aspirante a Fuzileiro Naval Espacial. Ambas as funções são insignificantes em comparação com o outro propósito do Boticário - a preservação da semente genética única de seu Capítulo, a partir da qual novos Space Marines são criados. Se a semente genética for perdida, o Capítulo também será perdido"/>
+    <entry name="SpaceMarines/Influence" value="Assimular"/>
+    <entry name="SpaceMarines/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="SpaceMarines/InfluenceFlavor" value="Um imenso local de encontro com tetos altos, onde todos os membros do Capítulo podem se reunir para participar de briefings, cerimônias e até festas de particular importância. Na maioria dos mosteiros-fortalezas, o Grande Salão é a única sala que excede o tamanho do Assimularum."/>
+    <entry name="SpaceMarines/Loyalty" value="Capela da Companhia"/>
+    <entry name="SpaceMarines/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="SpaceMarines/LoyaltyFlavor" value="Aqui os Capelães cuidam do bem-estar espiritual dos seus pupilos, garantindo a disciplina de cada Fuzileiro Naval e mantendo puras as suas mentes e espíritos. Para acomodar isso, cada uma das dez Companhias do Capítulo tem sua própria capela dedicada. Cerimônias maiores acontecem no próprio Reclusiam."/>
+    <entry name="SpaceMarines/Requisitions" value="Refeitório"/>
+    <entry name="SpaceMarines/RequisitionsDescription" value="Prédio que gera requisições."/>
+    <entry name="SpaceMarines/RequisitionsFlavor" value="Os gigantescos refeitórios e cozinhas do Capítulo estão contidos em seus Refeitórios. A dieta da Marinha Espacial é espartana, complementada com um coquetel de suplementos bioquímicos para garantir uma prontidão constante para a batalha. Os Irmãos de Batalha consomem esta refeição em completo silêncio."/>
+    <entry name="SpaceMarines/Research" value="Biblioteca"/>
+    <entry name="SpaceMarines/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="SpaceMarines/ResearchFlavor" value="Embora também seja um depósito de extensas histórias escritas de seu Capítulo, a Biblioteca é antes de tudo sua estação central de comando, comunicações e defesa. Aqui, os Astropatas gerenciam-base de comunicação, enquanto bibliotecários e psykers se debruçam, protegem e atualizam os séculos de sabedoria do Capítulo."/>
+    <entry name="SpaceMarines/Vehicles" value="Arsenal"/>
+    <entry name="SpaceMarines/VehiclesDescription" value="Edifício que produz veículos terrestres e também gera requisições e pesquisas."/>
+    <entry name="SpaceMarines/VehiclesFlavor" value="Lar de qualquer coisa que um fuzileiro naval possa empregar para expurgar o campo de batalha de xenos e hereges, desde a mais simples faca de combate até a mais temível das relíquias. O Mestre da Artilharia mantém uma estreita vigilância sobre o equipamento de guerra do Capítulo - apenas a impressão do seu gene pode conceder acesso a este titânico repositório subterrâneo de armas e veículos"/>
+    <entry name="Tau/Aircraft" value="Kor'vattra Nacelle"/>
+    <entry name="Tau/AircraftDescription" value="Edifício que produz aeronaves, além de aumentar o limite populacional e gerar influência."/>
+    <entry name="Tau/AircraftFlavor" value="Os membros delgados e os ossos ocos da Casta Aérea são tão inadequados para a vida terrestre que são frequentemente chamados de 'A Casta Invisível' pelos habitantes do planeta. Suas naceles são fábricas, hangares e espaços residenciais combinados com tecnologia de retenção que reduz os efeitos da gravidade do Gladius Prime em sua delicada fisiologia"/>
+    <entry name="Tau/Construction" value="Fundição Brachyuran'm"/>
+    <entry name="Tau/ConstructionDescription" value="Edifício que constrói novos edifícios e também gera minério, pesquisa e influência."/>
+    <entry name="Tau/ConstructionFlavor" value="Os Brachyuran podem não ser adequados para o combate - afinal, eles se parecem muito com crustáceos semelhantes a minúsculos caranguejos terráqueos - mas sua forma compacta esconde uma inteligência técnica feroz, ideal para construções delicadas. Nesta fundição, equipes de Brachyuran podem auxiliar a Casta Terra na construção de estruturas, do nível macro ao micro."/>
+    <entry name="Tau/Energy" value="Planta Sho'aun'or'es"/>
+    <entry name="Tau/EnergyDescription" value="Edifício que gera energia."/>
+    <entry name="Tau/EnergyFlavor" value="Os Demiurgos foram os primeiros a emprestar seus conhecimentos aos T'au, mas os T'au também recorreram à tecnologia abandonada do Império, refinando-a à sua maneira. Esta estranha estrutura reflete essa origem mista, mostrando a estética T'au imposta a um conjunto de reatores Imperial."/>
+    <entry name="Tau/Food" value="Hidroponia P'greet'an"/>
+    <entry name="Tau/FoodDescription" value="Prédio que colhe alimentos."/>
+    <entry name="Tau/FoodFlavor" value="Muitas raças se juntaram aos T'au, mas nem todas possuem um conjunto de habilidades único. Os Greet são uma raça aquática, indistinta na maioria das áreas; tudo o que podem contribuir para o T'au é o seu trabalho e conhecimento de aquicultura nestas fazendas hidropônicas seladas."/>
+    <entry name="Tau/Loyalty" value="Totem Ta'aun"/>
+    <entry name="Tau/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="Tau/LoyaltyFlavor" value="Esta é uma estátua simples de Aun'Va, o Supremo Etéreo, mostrando-o apoiando o caminho, esculpida como um portal através do qual fluem todas as raças da galáxia. Embutidos em sua superfície branca estão uma série de dispositivos de escuta, para rastrear o sentimento da população e isolar elementos dissidentes."/>
+    <entry name="Tau/Headquarters" value="QG de Tau'shiro"/>
+    <entry name="Tau/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="Tau/HeadquartersFlavor" value="Nomeada em homenagem às estações espaciais de tamanho continental da Casta Aérea, esta fortaleza atua como o ponto central da cidade-colônia. É teoricamente a reserva solitária dos Comandantes em situação militar, mas na prática é a sede dos Etéreos da colônia."/>
+    <entry name="Tau/Heroes" value="Estase de Shan'ar'tol"/>
+    <entry name="Tau/HeroesDescription" value="Edifício que produz heróis e também gera alimento e influência."/>
+    <entry name="Tau/HeroesFlavor" value="Comandantes como ShadowSun e PureTide são indivíduos raros, criados pelos Etéreos para serem representantes de tudo o que é bom e verdadeiro sobre o T'au. São tão poucos que, quando não são mobilizados em campanhas, ficam estagnados até a próxima vez que forem necessários"/>
+    <entry name="Tau/Housing" value="Tio'ur'm Pods"/>
+    <entry name="Tau/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="Tau/HousingFlavor" value="Estas robustas unidades habitacionais abrigam os maiores recursos do T'au - sua população de T'au e trabalhadores em geral. Muitas vezes é o local mais bem defendido próximo aos Etéreos – porque sem trabalhadores e famílias para sobreviver e reconstruir, onde está o valor da luta?"/>
+    <entry name="Tau/Infantry" value="Quartel Shas'm"/>
+    <entry name="Tau/InfantryDescription" value="Edifício que produz infantaria, além de aumentar o limite populacional e gerar influência."/>
+    <entry name="Tau/InfantryFlavor" value="Neste bunker de pele lisa, Fireblades e outros veteranos de T'au treinam os membros da casta do fogo, de recrutas Shas'saal a Guerreiros do Fogo Shas'la, administrando a Prova de Fogo no final de seu quarto ano."/>
+    <entry name="Tau/Influence" value="Emissora Por'sral"/>
+    <entry name="Tau/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="Tau/InfluenceFlavor" value="A Casta da Água são diplomatas - supremos - capazes de falar com as espécies exóticas mais intransigentes para os T'au - mas no hostil Gladius, suas habilidades são melhor empregadas nesta torre de comunicações enxuta fazendo proselitismo em todos os canais, atraindo a população restante para o causa."/>
+    <entry name="Tau/MonstrousCreatures" value="Centro de Crise de Xar'vesa"/>
+    <entry name="Tau/MonstrousCreaturesDescription" value="Edifício que produz criaturas monstruosas e também gera pesquisa e influência."/>
+    <entry name="Tau/MonstrousCreaturesFlavor" value="Depois que um Guerreiro do Fogo passa na Prova de Fogo e prova seu valor, ele pode vestir o Her'ex'evre ou Manto dos Heróis e pilotar um traje de batalha. Aqui, as icônicas máquinas T'au são montadas pela Casta Terrestre, com técnicos Brachyuran trabalhando nos finos mecanismos internos."/>
+    <entry name="Tau/Ore" value="Refinaria Anthrazod'm"/>
+    <entry name="Tau/OreDescription" value="Prédio que colhe minério."/>
+    <entry name="Tau/OreFlavor" value="Uma espécie robusta de Xenos, os Anthrazods normalmente passam a vida minerando asteróides para um bem maior. A escassez de mão de obra - e de asteróides - em Gladius significa que eles estão trabalhando mais estreitamente com a Casta Terrestre para extrair e refinar o minério"/>
+    <entry name="Tau/Research" value="Laboratório Bentu'sin"/>
+    <entry name="Tau/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="Tau/ResearchFlavor" value="A raça atarracada que o Império conhece como Demiurgo é chamada de “os sábios dotados” ou Bentusi pelos T'au,por seu domínio da ciência avançada e da automação. Eles normalmente são uma raça semi-aliada ligada ao espaço, mas em Gladius eles foram forçados a cair no chão, onde distribuíram sua tecnologia avançada aos T'au a contragosto"/>
+    <entry name="Tau/Vehicles" value="Fio'xar Arsenal"/>
+    <entry name="Tau/VehiclesDescription" value="Edifício que produz veículos terrestres e também gera minério e influência."/>
+    <entry name="Tau/VehiclesFlavor" value="Aqui, a severa casta da Terra fabrica os veículos skimmer exclusivos disponíveis para os militares T'au. Com o tempo, garantem eles, serão capazes de aumentar suas capacidades."/>
+    <entry name="Tyranids/Aircraft" value="Torre Capilar"/>
+    <entry name="Tyranids/AircraftDescription" value="Edifício que produz criaturas monstruosas voadoras e gera pesquisas, além de aumentar a lealdade e o limite populacional."/>
+    <entry name="Tyranids/AircraftFlavor" value="Altas como uma Cidade Colmeia humana, as Torres Capilares são a espinha dorsal da conquista Tyranid. Aqui, os recursos do planeta são desviados dos Poços de Recuperação e alimentados pela troposfera para encontrar as línguas umbilicais das naves Hive em órbita. Em Gladius, as Torres não têm Navios Colméia para alimentar. Em vez disso, Gárgulas e Anciãs da Colmeia rastejam dos sacos de parto nas laterais da Torre e esperam que suas asas recém-nascidas enrijeçam para que possam se juntar à guerra"/>
+    <entry name="Tyranids/Biomass" value="Piscina de Recuperação"/>
+    <entry name="Tyranids/BiomassDescription" value="Edifício que gera biomassa."/>
+    <entry name="Tyranids/BiomassFlavor" value="Um Poço de Recuperação é uma das estruturas centrais de uma invasão Tyranid, um amplo poço cartilaginoso borbulhante cheio de ácidos e enzimas. Independentemente da guerra que está acontecendo ao seu redor, os estripadores da Colmeia trazem a biomassa coletada para o Poço de Recuperação, onde ela é dissolvida. Em uma situação normal, seria alimentado através das Torres Capilares até a Frota da Colmeia que aguardava; no Gladius, a biomassa é armazenada ou utilizada na criação de mais tropas."/>
+    <entry name="Tyranids/Construction" value="Saco de Megafauna"/>
+    <entry name="Tyranids/ConstructionDescription" value="Edifício que constrói novos edifícios, além de gerar biomassa e aumentar o limite populacional."/>
+    <entry name="Tyranids/ConstructionFlavor" value="Nada reflete mais a desumanidade de uma colméia do que o Saco da Megafauna. Ao olho humano, sua cúpula membranosa lisa lembra o projeto de um museu. No entanto, quando ele se despedaça para revelar outra bioestrutura gigante, pulsando e gritando em seus espasmos de nascimento - quando esse edifício é meio arrastado, meio arrastando sua carne imponente para a posição - quando o Saco se recompõe e enxames de estripadores consomem seu placenta - a mente humana então a vê como verdadeiramente estranha."/>
+    <entry name="Tyranids/Headquarters" value="Cisto de Norn"/>
+    <entry name="Tyranids/HeadquartersDescription" value="Edifício sede gerador de recursos."/>
+    <entry name="Tyranids/HeadquartersFlavor" value="Organismo organizador da colmeia de um Tyranid, o Cisto Norn é sempre a primeira bioestrutura a ser colocada. O Malantropo coloca a colmeia em um local adequado e cuida do seu crescimento exponencial à medida que a colmeia gerencia e defende quaisquer bioestruturas conectadas. Quando o uso da colméia passa, o Malantropo retira as conexões vivas do Cisto e o transporta para uma nova fonte de biomassa. A estrutura redundante restante é descartada de volta para o pool de recuperação mais próximo. Logo, a colmeia desaparece completamente."/>
+    <entry name="Tyranids/Heroes" value="Ovipositório Alfa"/>
+    <entry name="Tyranids/HeroesDescription" value="Edifício que produz heróis e também gera biomassa e aumenta a lealdade."/>
+    <entry name="Tyranids/HeroesFlavor" value="Embora os Anthropia surjam apenas dos sacos de longa gestação do Aedanthropum, as criaturas sinápticas mais complexas consomem ainda mais recursos da Mente Colmeia e, principalmente, concentram-se. Cada Tyrant, Tervigon e Prime requer um design cuidadoso da Mente, para dar-lhe aquele equilíbrio entre controle total e independência útil. A sensorialidade concentrada do Ovipositório permite esse foco."/>
+    <entry name="Tyranids/Housing" value="Marsúpia de hibernação"/>
+    <entry name="Tyranids/HousingDescription" value="Prédio que aumenta limite populacional."/>
+    <entry name="Tyranids/HousingFlavor" value="O excesso de biomassa e os dados genéticos são simplesmente armazenados nas paredes espessadas das bioestruturas ou no fluxo que se contrai entre elas. Mas quando uma criatura cresce, às vezes a Mente Colmeia considera mais eficiente retê-la, mas encerra suas funções, armazenadas em fileiras cerradas de marsúpios"/>
+    <entry name="Tyranids/Infantry" value="Ninho de Ninhada"/>
+    <entry name="Tyranids/InfantryDescription" value="Edifício que produz infantaria e feras, além de gerar biomassa e aumentar a lealdade."/>
+    <entry name="Tyranids/InfantryFlavor" value="Embora uma Rainha Norn normalmente produza todas as criaturas de uma invasão Tyranid, nas circunstâncias em que uma ninhada está fisicamente isolada da Frota da Colmeia, certas estruturas especializadas são usadas. Criaturas menores como Termagants são gestadas nos frutos deste ninho, alimentadas e aquecidas pelas estruturas impensadas."/>
+    <entry name="Tyranids/Influence" value="Nó Sinapse"/>
+    <entry name="Tyranids/InfluenceDescription" value="Edifício que gera influência."/>
+    <entry name="Tyranids/InfluenceFlavor" value="As capacidades da Mente Colmeia não estão distribuídas uniformemente por suas estruturas – em algum lugar, é necessário que haja sistemas concentrados de pensamento. Na Hive Fleet, estas são as Rainhas Norn. No terreno, estas sinapses actuam como apoios temporários ao efeito de rede das suas criaturas individuais, permitindo à Mente concentrar-se em mais objectivos do que simplesmente controlar o enxame"/>
+    <entry name="Tyranids/Loyalty" value="Nó de Coerência"/>
+    <entry name="Tyranids/LoyaltyDescription" value="Edifício que aumenta a fidelização."/>
+    <entry name="Tyranids/LoyaltyFlavor" value="Um estudioso imperial poderia fazer uma analogia entre um nó de coerência e algo como uma torre de rádio - e, certamente, sua aparência de orelha de orquídea se ajusta - mas ele não transmite, mas recebe. As superfícies dobradas do nó rastreiam a localização das criaturas da Mente da Colmeia para a implantação mais eficiente de suas sinapses, para evitar que os enxames da Colmeia caiam na anarquia e no caos."/>
+    <entry name="Tyranids/Research" value="Epicura Genética"/>
+    <entry name="Tyranids/ResearchDescription" value="Edifício que gera pesquisa."/>
+    <entry name="Tyranids/ResearchFlavor" value="Embora os Malantropos sejam responsáveis pela coleta física de dados genéticosdados da população de um planeta, o Epicure é a estrutura que processa essas amostras. Dentro da massa canelada do Epicure, estruturas delicadas separam e classificam as amostras genéticas, testando-as em escala microscópica em busca de inovações úteis. Quando algo é descoberto, é imediatamente comunicado ao Cisto Norn e, portanto, à Mente Colméia."/>
+    <entry name="Tyranids/Thropes" value="Aedantropo"/>
+    <entry name="Tyranids/ThropesDescription" value="Edifício que produz Tropas e gera pesquisas."/>
+    <entry name="Tyranids/ThropesFlavor" value="Nem todas as criaturas Tyranid são iguais; enquanto Termagants e Hormagaunts requerem pouco foco e recursos não especializados, a construção e gestação de criaturas mais complexas podem exigir mais cuidado. Em colmeias isoladas como a de Gladius, as diversas criaturas de suporte que o Imperium chama de Anthropia – Venomthropes, Zoanthropes e Malanthropes – emergem todas de uma bioestrutura especializada de colunas cartilaginosas, podólios e cavernas"/>
+    <entry name="Tyranids/Vehicles" value="Assombração da Ninhada"/>
+    <entry name="Tyranids/VehiclesDescription" value="Edifício que produz criaturas monstruosas terrestres e gera biomassa."/>
+    <entry name="Tyranids/VehiclesFlavor" value="Algumas das criações da Hive Mind são produzidas por bioestruturas separadas devido ao cuidado e aos recursos utilizados em sua renderização. Outros são simplesmente grandes. O Brood Haunt abriga aqueles gigantes brutais que são grandes demais para o Brood Nest. Dentro deste refúgio com espinhos altos, cavernas uterinas de ossos cheias de fluido suspensório permitem a formação de camadas de músculos e ossos para esses gigantes monstruosos"/>
+</language>

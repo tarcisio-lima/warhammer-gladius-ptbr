@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="AccumulateBiomassDescription" value="Acumule biomassa (%1%/%2%)."/>
+    <entry name="AccumulateInfluenceDescription" value="Acumule influência (%1%/%2%)."/>
+    <entry name="AccumulateKillExperienceDescription" value="Acumule experiência com mortes (%1%/%2%)."/>
+    <entry name="AccumulatePopulationDescription" value="População acumulada (%1%/%2%)."/>
+    <entry name="AccumulateResearchDescription" value="Acumule pesquisas (%1%/%2%)."/>
+    <entry name="ActivateCanticleDescription" value="Ative cântico (%1%/1)."/>
+    <entry name="ActivateDoctrinaDescription" value="Ative doutrina (%1%/1)."/>
+    <entry name="ActivateUnitDescription" value="Ative %1% (%2%/1)."/>
+    <entry name="ActivateSacredRiteDescription" value="Ative rito sagrado (%1%/%2%)."/>
+    <entry name="ActivateTacticDescription" value="Ative tática de capítulo (%1%/1)."/>
+    <entry name="CaptureUnitDescription" value="Capture %1% (%2%/1)."/>
+    <entry name="ClearInfestationDescription" value="Destrua %1% (%2%/%3%)."/>
+    <entry name="ConstructBuildingDescription" value="Construa %1% (%2%/%3%)."/>
+    <entry name="ConstructBuildingOnSameTileDescription" value="Construa %1% no mesmo bloco (%2%/%3%)."/>
+    <entry name="ConstructFeatureDescription" value="Construa %1% (%2%/%3%)."/>
+    <entry name="ConsumeTileDescription" value="Consuma ladrilho com Malantropo (%2%/%3%)."/>
+    <entry name="ControlCityDescription" value="Cidades de controle (%1%/%2%)."/>
+    <entry name="ControlOutpostDescription" value="Postos avançados de controle (%1%/%2%)."/>
+    <entry name="ControlUnitDescription" value="Mantenha o controle de %1% (%2%/1)."/>
+    <entry name="DefendTileDescription" value="Defenda a peça destacada."/>
+    <entry name="DefendTileWithTurnLimitDescription" value="Defenda a peça destacada (%1% turnos)."/>
+    <entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Defenda a entrada recém-descoberta por %1% turnos (%2%/1)."/>
+    <entry name="DeployFortressDescription" value="Implante %1% próximo a um recurso especial e proteja o perímetro (%2%/1)."/>
+    <entry name="DestroySpawnedCityDescription" value="Destrua a cidade de Astra Militarum (%1%/1)."/>
+    <entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+    <entry name="ExploreDepthsDescription" value="Envie unidades para as profundezas do planeta:"/>
+    <entry name="FoundCityDescription" value="Nova cidade encontrada (%1%/1)."/>
+    <entry name="FoundCityNearEntranceDescription" value="Nova cidade encontrada a 3 espaços da entrada recém-descoberta (%1%/1)."/>
+    <entry name="FoundCityOnNecronTombDescription" value="Encontrada nova cidade no bloco destacado (%1%/1)."/>
+    <entry name="GenerateResearchFromExperienceDescription" value="Mate a unidade inimiga dentro de 3 quadrados do Malanthrope (%1%/%2%)"/>
+    <entry name="InfiltrateCampWithUnitTypeDescription" value="Mova %1% adjacente à fortaleza inimiga (%2%/%3%)."/>
+    <entry name="InvokeCultistSacrificeDescription" value="Use %1% com Cultistas do Caos (%2%/%3%)."/>
+    <entry name="InvokeRapidRiseOnWarriorDescription" value="Invocar Rapid Rise na produção de Warriors (%1%/1)."/>
+    <entry name="InvokeRiteDescription" value="Invoque %1% em uma cidade (%2%/%3%)."/>
+    <entry name="KeepUnitAliveDescription" value="Mantenha %1% vivo (%2%/1)."/>
+    <entry name="KillCampDescription" value="Derrote o acampamento inimigo (%1%/1)."/>
+    <entry name="KillCampWithAdeptusMechanicusDescription" value="Destrua o acampamento Adeptus Mechanicus (%1%/1)."/>
+    <entry name="KillCampWithDaemonPrinceWithTurnLimitDescription" value="Derrote o Príncipe Daemon realizando o ritual em %2% turnos (%1%/1)."/>
+    <entry name="KillCampWithDeceiverDescription" value="Encontre e destrua o Enganador (%1%/1)."/>
+    <entry name="KillCampWithEtherealDescription" value="Mate o Etéreo (%1%/1)."/>
+    <entry name="KillCampWithFortressOfRedemptionDescription" value="Destrua a Fortaleza da Redenção rebelde (%1%/1)."/>
+    <entry name="KillCampWithOrksDescription" value="Destrua o acampamento Ork (%1%/1)."/>
+    <entry name="KillCampWithKastelansDescription" value="Destrua ou capture o acampamento Kastelan (%1%/1)."/>
+    <entry name="KillCampWithRebelNecronArmyDescription" value="Destrua o exército rebelde Necron (%1%/1)."/>
+    <entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Derrote o rebelde Techpriest e seu contingente de robôs de elite em %2% turnos (%1%/1)."/>
+    <entry name="KillCampWithTurnLimitDescription" value="Derrote o acampamento inimigo em %2% turnos (%1%/1)."/>
+    <entry name="KillCampWithTyranidsDescription" value="Destrua a colmeia Tyranid (%1%/1)."/>
+    <entry name="KillImperialStrongpointDescription" value="Destrua o Ponto Forte Imperial (%1%/1)."/>
+    <entry name="KillLordOfSkullsActiveDescription" value="Mate o %1% em %4% turnos (%2%/%3%)."/>
+    <entry name="KillLordOfSkullsInactiveDescription" value="Aguarde até que %1% retorne a este mundo (0/1)."/>
+    <entry name="KillNoctilithCrownDescription" value="Destrua a Coroa Noctilith para banir o Príncipe Daemon (%1%/1)."/>
+    <entry name="KillSpawnedUnitsDescription" value="Mate unidades dispersas (%1%/%2%)."/>
+    <entry name="KillUmbraDescription" value="Mate a Umbra (%1%/1)."/>
+    <entry name="KillUnitDescription" value="Mate %1% (%2%/%3%)."/>
+    <entry name="KillUnitNativeDescription" value="Mate Xenos nativos (%1%/%2%)."/>
+    <entry name="KillUnitWithTokenDescription" value="Destrua %1% (%2%/1)."/>
+    <entry name="MoveUnitIntoCityDescription" value="Mover %1% para a sede da cidade (%2%/1)."/>
+    <entry name="ProduceLoyaltyFromUtopiaPerTurnDescription" value="Gere %1% de lealdade da Utopia por turno (atualmente %2%) (%3%/1)."/>
+    <entry name="ProduceUnitDescription" value="Unidade de produção (%2%/%3%)."/>
+    <entry name="ProduceUnitOfTypeDescription" value="Produzir %1% (%2%/%3%)."/>
+    <entry name="ProduceUnitWithTraitDescription" value="Produzir unidade com característica %1% (%2%/%3%)."/>
+    <entry name="ProduceRequisitionsPerTurnDescription" value="Gerar %1% requisições por turno (atualmente %2%) (%3%/1)."/>
+    <entry name="RaiseLoyaltyDescription" value="Aumente a lealdade em sua capital para %1% ou mais por 1 turno (%2%/1)."/>
+    <entry name="ReachLevelDescription" value="Alcance o nível %2% com %1% (%3%/1)."/>
+    <entry name="ReclaimUnitDescription" value="Use qualquer edifício de produção para recuperar a unidade (%2%/%3%)."/>
+    <entry name="RecoverArcheotechDescription" value="Recuperar artefatos (%1%/%2%)."/>
+    <entry name="RecoverUnitDescription" value="Recuperar unidades dispersas (%1%/%2%)."/>
+    <entry name="ResearchUpgradeDescription" value="Pesquisa %1% (%2%/%3%)."/>
+    <entry name="ResearchUpgradeTierDescription" value="Pesquise qualquer atualização de nível %1% (%2%/1)."/>
+    <entry name="ScanTilesDescription" value="Use %1% em blocos destacados (%2%/%3%)."/>
+    <entry name="StartEdictDescription" value="Iniciar edital da cidade (%1%/1)."/>
+    <entry name="SurviveInvasionDescription" value="Sobreviva à invasão e mate todos os invasores (%1%/1)."/>
+    <entry name="SurviveInvasionWithTurnLimitDescription" value="Sobreviva à invasão por %1% turnos (%2%/1)."/>
+    <entry name="UseCityAbilityDescription" value="Use %1% na sua cidade (%2%/%3%)."/>
+    <entry name="UseCombatDrugsDescription" value="Use %1% em uma de suas unidades (%2%/%3%)."/>
+    <entry name="UseConvertWildlifeDescription" value="Usar %1% em auxiliar errante (%2%/%3%)."/>
+    <entry name="UseMarkDescription" value="Use %1% em uma unidade (%2%/%3%)."/>
+    <entry name="UseMarkerlightDescription" value="Use %1% em uma unidade inimiga (%2%/%3%)."/>
+    <entry name="UsePurchaseFoodDescription" value="Use %1% para comprar comida (%2%/%3%)."/>
+    <entry name="UsePurchaseOreDescription" value="Use %1% para comprar minério (%2%/%3%)."/>
+    <entry name="UsePurchaseEnergyDescription" value="Usar %1% para comprar energia (%2%/%3%)."/>
+    <entry name="UsePurchasePopulationDescription" value="Use %1% na sua cidade (%2%/%3%)."/>
+    <entry name="VisitTileAndClearEnemiesDescription" value="Visite o bloco destacado e proteja o perímetro (%4%/%2%)."/>
+    <entry name="VisitTileChaosCultistWithUnitTypeAndTurnLimitDescription" value="Sacrifique %3% no bloco destacado em %5% turnos (%1%/%2%)."/>
+    <entry name="VisitTileDaemonPrinceWithUnitTypeDescription" value="Visite o bloco destacado com %3% (%1%/%2%)."/>
+    <entry name="VisitTileDescription" value="Visite o bloco destacado (%1%/%2%)."/>
+    <entry name="VisitTileExoditeWithUnitTypeDescription" value="Visite o bloco destacado com %3% (%1%/%2%)."/>
+    <entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Visite o bloco destacado com %3% e proteja o perímetro (%4%/%2%)."/>
+    <entry name="VisitTileWithUnitTypeAndTurnLimitDescription" value="Visite o bloco destacado com %3% em %5% turnos (%1%/%2%)."/>
+    <entry name="VisitTileWithUnitTypeDescription" value="Visite o bloco destacado com %3% (%1%/%2%)."/>
+
+    <!--Linked Keys-->
+    <entry name="ClaimWebwayGateWithCelestineDescription" value="Mover adjacente a <string name='Units/Eldar/WebwayGate'/> com <string name='Units/SistersOfBattle/SaintCelestine'/> (%1%/1)."/>
+	<entry name="ClearHolySiteDescription" value="Explore <string name='Features/HolySite'/> com Hospitalários (%1%/%2%)."/>
+	<entry name="DeployGunDroneDescription" value="Implante <string name='Units/Tau/GunDrone'/> (%2%/%3%)."/>
+	<entry name="KeepWebwayGateAliveDescription" value="<string name='Objectives/KeepUnitAliveDescription'/>"/>
+	<entry name="KillCampWithWebwayGateDescription" value="Derrote a força Aeldari que guarda o <string name='Units/Eldar/WebwayGate'/> (%1%/1)."/>
+</language>

@@ -1,0 +1,99 @@
+<language>
+    <entry name="AegisHarness" value="Arnês de Égide"/>
+    <entry name="AegisHarnessDescription" value="Item que bloqueia os danos e efeitos do próximo poder psíquico inimigo."/>
+    <entry name="AegisHarnessFlavor" value="Imbuída de filamentos psicocondutores e proteções hexagramáticas, a armadura Aegis representa talvez a defesa mais eficaz do Império contra ataques psíquicos. Mais comumente empregado pelo Ordo Malleus da Inquisição em sua cruzada para expurgar a mácula do Caos da galáxia."/>
+    <entry name="AdamantiumWeaveVest" value="Colete de tecido de Adamantium"/>
+    <entry name="AdamantiumWeaveVestDescription" value="Item que aumenta a armadura."/>
+    <entry name="AdamantiumWeaveVestFlavor" value="Quando você quer tornar algo invulnerável, você o faz com adamantium. Usado na construção da Armadura Terminator ou na construção de Titãs, este é o material mais forte conhecido pelo homem. Este colete contém apenas uma pequena quantidade, tecido com plasteel e ceramite, mas é o suficiente para torná-lo extremamente protetor"/>
+    <entry name="ArmaplasBracers" value="Braçadeiras Armaplas"/>
+    <entry name="ArmaplasBracersDescription" value="Item que aumenta a armadura."/>
+    <entry name="ArmaplasBracersFlavor" value="Feitos do mesmo material da Armadura da Carapaça Imperial, esses conjuntos combinados de escudos de braço aumentam levemente a capacidade de sobrevivência do usuário. No entanto, são os pensadores táticos integrados que dão ao usuário uma esperança muito melhor de sobreviver à próxima luta."/>
+    <entry name="AxeOfBlindFury" value="Machado da Fúria Cega"/>
+    <entry name="AxeOfBlindFuryDescription" value="Item que concede efeito de clivagem a todas as armas brancas."/>
+    <entry name="AxeOfBlindFuryFlavor" value="Presa neste machado lendário está a essência de um Daemon Maior. Enfurece-se contra a sua eternidade de servidão, resultando em violência grave contra o inimigo e, por vezes, contra o seu dono!"/>
+    <entry name="BlightGrenade" value="Granada de Praga"/>
+    <entry name="BlightGrenadeDescription" value="Item que causa dano à infantaria inimiga alvo ou unidade de criatura monstruosa."/>
+    <entry name="BlightGrenadeFlavor" value="O uso das doenças contidas nas Granadas Blight foi um crime de guerra na história antiga. Os exemplos modernos são raros, mas os Chaos Marines de Nurgle muitas vezes criam os seus próprios, com os estilhaços forçando patógenos letais nas menores rachaduras da armadura"/>
+    <entry name="BlindGrenade" value="Granada Cega"/>
+    <entry name="BlindGrenadeDescription" value="Item que reduz a precisão da infantaria inimiga alvo ou da unidade de criatura monstruosa."/>
+    <entry name="BlindGrenadeFlavor" value="Granadas cegas são uma versão mais complexa de uma granada de fumaça, liberando uma densa nuvem de fumaça cinza escuro, bem como defletores infravermelhos, radiação eletromagnética de amplo espectro e palha para interromper os scanners inimigos. A ampla gama de interferências torna impossível a maioria das formas de ataque direto por um curto período de tempo"/>
+    <entry name="CombatStimulant" value="Estimulante de Combate"/>
+    <entry name="CombatStimulantDescription" value="Item que aumenta o dano."/>
+    <entry name="CombatStimulantFlavor" value="Estimulantes de Combate como Frenzon ou Investida são vistos com desgosto pela maioria das espécies, visto que sua fabricação e testes às vezes exigem a liquidação de vítimas inocentes (especialmente se cultos Slaaneshi estiverem envolvidos). Apesar disso, as forças imperiais os distribuem regularmente tanto para as Legiões Penais quanto para os temidos Assassinos Eversor."/>
+    <entry name="CompendiumFlavor" value="Embora a superfície de Gladius tenha sido regularmente limpa de materiais e recursos úteis durante seus milênios de ocupação, ela ainda continha itens únicos, atraindo em sua época muitos comerciantes viajantes, incluindo o misterioso Jokaero. Os recentes tumultos e tempestades de dobra agitaram ainda mais sua superfície destruída e lançaram todo tipo de itens estranhos. Quem sabe o que o Jokaero encontrará a seguir?"/>
+    <entry name="ConcealedWeaponSystem" value="Sistema de Armas Ocultas"/>
+    <entry name="ConcealedWeaponSystemDescription" value="Item que aumenta os ataques."/>
+    <entry name="ConcealedWeaponSystemFlavor" value="Esconder uma arma não é uma ideia nova, mas um verdadeiro Sistema de Arma Oculta secreta a ferramenta mortal de tal forma que ela é indetectável até ser usada - como roupas, joias ou até mesmo como elementos biológicos. O elemento surpresa aumenta fortemente a sua eficácia."/>
+    <entry name="DimensionalKey" value="Chave Dimensional"/>
+    <entry name="DimensionalKeyDescription" value="Item que permite ao herói se teletransportar para uma peça explorada."/>
+    <entry name="DimensionalKeyFlavor" value="Esta chave antiga foi esculpida no fêmur de um Príncipe Daemon. Quando empurrado para o coração de um guerreiro moribundo, ele desbloqueia as barreiras entre os mundos: um vendaval uivante de golpes do Caos, desorientando quaisquer mortais próximos que não estejam comprometidos com os Deuses das Trevas. Pior ainda, a chave guia aqueles que se aproximam do campo de batalha através do Warp."/>
+    <entry name="DuskBlade" value="Lâmina do Crepúsculo"/>
+    <entry name="DuskBladeDescription" value="Item que concede roubo de vida a todas as armas brancas."/>
+    <entry name="DuskBladeFlavor" value="A Dawn Blade que o traidor Comandante Farsight descobriu era única - mas para apagar sua memória, os artesãos da Casta Terrestre e os diplomatas da Casta Água criaram esta arma para Coldflame. Pode parecer igual ao icônico Dawn Blade, mas não possui nenhum de seus poderes sobrenaturais - em vez disso, a tecnologia médica avançada incorporada nele pode aproveitar o poder do traje de batalha para curar o usuário"/>
+    <entry name="EnduranceImplant" value="Implante de Resistência"/>
+    <entry name="EnduranceImplantDescription" value="Item que aumenta a movimentação."/>
+    <entry name="EnduranceImplantFlavor" value="Um dispositivo Jokaero atípico, este implante penetra no organismo hospedeiro, para otimizar seus sistemas biológicos. Seu usuário se sentirá incansável, capaz de correr mais rápido, lutar por mais tempo e, geralmente, continuar avançando - isto é, até que seu corpo exausto ceda"/>
+    <entry name="EntropicLocum" value="Locum Entrópico"/>
+    <entry name="EntropicLocumDescription" value="Item que aumenta a penetração da armadura."/>
+    <entry name="EntropicLocumFlavor" value="Aparentemente usando princípios de design semelhantes aos de uma arma Graviton, este dispositivo Jokaero pode ser usado ao lado de uma mira ou paralelo à lâmina de uma arma. Quando ativado, faz com que as moléculas em um volume muito pequeno do alvo fiquem desordenadas e colapsem para dentro, levando a um único ponto fraco no alvo para o qual sua arma já está apontando."/>
+    <entry name="FaolchusWing" value="Asa de Faolchú"/>
+    <entry name="FaolchusWingDescription" value="Item que consome ação para aumentar o movimento."/>
+    <entry name="FaolchusWingFlavor" value="Quando Eldanesh caiu lutando contra Khaine, o grande falcão Faolchú ficou desconsolado. Faolchú presenteou Eldanes com uma única pena douradaseus herdeiros, que talvez sua rapidez pudesse ajudá-los onde a dela falhou. A lenda diz que este artefato é o mesmo símbolo de tristeza, transmitido através de gerações de Aeldari, e sobrevivendo até mesmo ao tumulto da Queda."/>
+    <entry name="ForbiddenKnowledge" value="Conhecimento Proibido"/>
+    <entry name="ForbiddenKnowledgeDescription" value="Item que aumenta o nível."/>
+    <entry name="ForbiddenKnowledgeFlavor" value="Esta caixa de pedra negra está fortemente inscrita em runas antigas, possivelmente Exodite, possivelmente Antiga. Quem sabe o que isso contém? Segredos sussurrados há séculos? Armadilhas mortais? Milagres de conhecimento há muito tempo perdidos? Poder profano de deuses profanos? Somente uma alma corajosa o suficiente para abri-lo e descobrir por si mesma saberá..."/>
+    <entry name="JokaeroDigitalWeapon" value="Arma Digital Jokaero"/>
+    <entry name="JokaeroDigitalWeaponDescription" value="Item que causa dano à unidade inimiga alvo."/>
+    <entry name="JokaeroDigitalWeaponFlavor" value="Ferramentas de matança miniaturizadas de poder notável, comumente escondidas em joias e criadas por uma raça de xenos semelhantes a primatas com uma compreensão aparentemente instintiva da tecnologia. O Império ainda não foi capaz de replicar a construção destas armas digitais"/>
+    <entry name="LaurelsOfCommand" value="Louros do Comando"/>
+    <entry name="LaurelsOfCommandDescription" value="Item que restaura o moral desta unidade e de unidades aliadas próximas ao alcance."/>
+    <entry name="LaurelsOfCommandFlavor" value="Os Louros de Comando são um meio insensível e controverso de garantir a obediência. Escondido em sua arte incomparável está uma faixa de circuitos de impulsão empática que permite ao usuário controle limitado sobre as mentes de indivíduos doutrinados por meio de sugestão subliminar. Sob os seus efeitos, até os cobardes lutam até ao fim, enquanto as ordens são executadas em perfeita sincronização"/>
+    <entry name="LightningGauntlet" value="Manopla Relâmpago"/>
+    <entry name="LightningGauntletDescription" value="Item que aumenta o dano do próximo ataque corpo a corpo."/>
+    <entry name="LightningGauntletFlavor" value="Com garras criadas a partir de adamantium e o brilho azul revelador de uma arma poderosa, as Garras Relâmpagos normalmente só são montadas na armadura do Exterminador do Futuro. No entanto, raras manoplas individuais podem ser encontradas pequenas o suficiente para serem carregadas por um guerreiro normal."/>
+    <entry name="ManCatcher" value="Apanhador de Homens"/>
+    <entry name="ManCatcherDescription" value="Item que reduz o movimento da unidade inimiga alvo."/>
+    <entry name="ManCatcherFlavor" value="Um antigo dispositivo de captura cujo colar pontiagudo dissuade violentamente o prisioneiro de tentar escapar e pode afrouxar sua língua. Embora a maioria a considere uma arma demasiado primitiva, um punhado de Inquisidores está decidido a que a sua simples barbárie alcança resultados que os métodos mais contemporâneos simplesmente não conseguem"/>
+    <entry name="MourningBladeOfLazaerek" value="Lâmina de Luto de Lazaerek"/>
+    <entry name="MourningBladeOfLazaerekDescription" value="Item que aumenta o dano corpo a corpo e a penetração da armadura corpo a corpo."/>
+    <entry name="MourningBladeOfLazaerekFlavor" value="Poucos sobreviveram quando um salto aparentemente desastroso fez com que os últimos remanescentes do Capítulo Fire Hawks fossem perdidos na dobra em 963.M41, mas algumas supostas relíquias ainda permanecem. Acreditava-se que este machado pertencia ao seu rancoroso grão-mestre, Stibor Lazaerek, sob cujo comando as fileiras do Capítulo foram dizimadas durante as rebeliões letais da Guerra Badab."/>
+    <entry name="OmniScope" value="Omni-Escopo"/>
+    <entry name="OmniScopeDescription" value="Item que aumenta a precisão de longo alcance."/>
+    <entry name="OmniScopeFlavor" value="Uma rara mira de arma Imperial, o Omni-Scope consiste em uma lente de precisão alinhada a um conjunto de sensores, incluindo modos de visão telescópico e multiespectro. O usuário pode usar a mira manualmente ou por meio de uma entrada direta que se conecta a interfaces biônicas, biológicas ou outras. A última interface permite visão e controle remoto com qualquer arma preferida pelos assassinos em todo o Império."/>
+    <entry name="PoweredBolas" value="Bolas Elétricas"/>
+    <entry name="PoweredBolasDescription" value="Item que reduz o movimento da unidade inimiga alvo."/>
+    <entry name="PoweredBolasFlavor" value="Nos mundos de savana do Império, as forças locais frequentemente adotam esses dispositivos tradicionais, tirados dos pastores Grox locais. Os três pesos na ponta do fio causam pouco dano ao alvo - mas o emaranham tão completamente que pode ser manuseado à vontade"/>
+    <entry name="PoweredGauntlet" value="Manopla Elétrica"/>
+    <entry name="PoweredGauntletDescription" value="Item que aumenta o dano corpo a corpo."/>
+    <entry name="PoweredGauntletFlavor" value="Isto pode parecer uma simples luva de aço, com tecnologia colocada aleatoriamente por toda parte. No entanto, como diz o Administratum, 'caveat emptor' - pois a tecnologia Jokaero nele contida o torna compatível com os punhos e garras de poder maiores empregados pelas forças Imperiais e Ork."/>
+    <entry name="RecoveryPackage" value="Pacote de Recuperação"/>
+    <entry name="RecoveryPackageDescription" value="Item que restaura os hitpoints."/>
+    <entry name="RecoveryPackageFlavor" value="Este kit médico foi elaborado com pouco sentido ou razão, talvez por um Jokaero ou um Ork Mad Dok com um senso instintivo de medicina, mas não há dúvidas da eficácia de seu conteúdo. Seja qual for o ferimento, há aqui um pacote mal rotulado que irá consertá-lo."/>
+    <entry name="ScrollsOfMagnus" value="Pergaminhos de Magnus"/>
+    <entry name="ScrollsOfMagnusDescription" value="Item que aumenta o rendimento da pesquisa."/>
+    <entry name="ScrollsOfMagnusFlavor" value="Essas páginas iluminadas de pele são fragmentos do repositório de feitiçaria compilado pelo Primarca dos Mil Filhos e contêm conhecimentos arcanos de toda a galáxia. Ninguém os possui por muito tempo e permanece são, pois eles têm sua própria senciência medonha"/>
+    <entry name="SightlessHelm" value="Elmo Cego"/>
+    <entry name="SightlessHelmDescription" value="Item que concede a habilidade de ignorar a redução de dano à distância e aumenta a precisão à distância."/>
+    <entry name="SightlessHelmFlavor" value="As lentes deste elmo permanecem para sempre escuras, e o usuário é incapaz de perceber a galáxia com seus próprios olhos. Em vez disso, estranhos sentidos de dobra são concedidos pelo espírito da máquina do leme, iluminando as fraquezas do inimigo"/>
+    <entry name="StunGrenade" value="Granada de atordoamento"/>
+    <entry name="StunGrenadeDescription" value="Item que impede a ação da infantaria inimiga ou criatura monstruosa alvo."/>
+    <entry name="StunGrenadeFlavor" value="Com um design antigo, as granadas de atordoamento usam uma combinação de uma forte explosão e um flash brilhante para desativar temporariamente qualquer combatente na área da explosão"/>
+    <entry name="TantalisingIcon" value="Ícone tentador"/>
+    <entry name="TantalisingIconDescription" value="Item que aumenta a influênciasaída."/>
+    <entry name="TantalisingIconFlavor" value="Esculpida em osso de espectro roubado dos corações dos Craftworlds caídos, esta forma alongada representa Slaanesh em toda a sua glória. Poucos olhos mortais poderiam pousar sobre este ícone e não desejá-lo - por Slaanesh - e começar sua queda em desgraça."/>
+    <entry name="TemporaryShield" value="Escudo Temporário"/>
+    <entry name="TemporaryShieldDescription" value="Item que aumenta a armadura."/>
+    <entry name="TemporaryShieldFlavor" value="Geradores de escudos portáteis são bastante raros entre a maioria das espécies, dada a capacidade técnica e os raros recursos necessários para produzi-los. Eles também se esgotam rapidamente, mas sua capacidade de impedir até mesmo os ataques mais poderosos que ocorrem imediatamente os torna inestimáveis"/>
+    <entry name="UltraWidebandAuspex" value="Auspícios de banda ultralarga"/>
+    <entry name="UltraWidebandAuspexDescription" value="Item que evita que a unidade seja alvo de ataques de vigilância."/>
+    <entry name="UltraWidebandAuspexFlavor" value="Para se esconder, você nem sempre precisa de campos de difração ou de pele camaleônica – às vezes, apenas saber mais do que o inimigo é suficiente. Um Auspícios avançado usa sensores passivos e ativos para discernir a localização de cada unidade inimiga para que o portador possa decidir a melhor forma de enfrentá-los - ou evitá-los - à vontade"/>
+    <entry name="UncreatorGauntlet" value="Manopla do Descriador"/>
+    <entry name="UncreatorGauntletDescription" value="Item que repara um veículo ou fortificação aliada adjacente."/>
+    <entry name="UncreatorGauntletFlavor" value="O Uncreator Gauntlet foi originalmente desenvolvido para fazer engenharia reversa de tecnologias perdidas. Quando colocados sobre uma máquina, são liberados campos xenotecnológicos que fazem com que a cronologia da construção seja retrocedida. Se o tempo for preciso até o picossegundo, a anomalia temporal pode rejuvenescer a máquina ao auge de sua vida operacional - ou reduzi-la a uma pilha bem organizada de peças componentes, cada uma pronta para a inspeção do Tech-Priest."/>
+    <entry name="VolcanisShroud" value="Mortalha dos Vulcões"/>
+    <entry name="VolcanisShroudDescription" value="Item que aumenta a redução de dano do fogo bruxo."/>
+    <entry name="VolcanisShroudFlavor" value="Embora esta armadura desgastada e resistente ao calor tenha sido originalmente projetada para trabalho industrial nas camadas mais profundas e perigosas dos Mundos Colmeia, por algum feliz acidente ela também abafa ataques psíquicos. Até agora, o que quer que dê ao Sudário esta qualidade não foi identificado, por medo de que a engenharia reversa possa quebrar o seu feitiço misterioso"/>
+    <entry name="ZoatHideJerkin" value="Zoat Esconder Jerkin"/>
+    <entry name="ZoatHideJerkinDescription" value="Item que aumenta os pontos de vida e a taxa de cura."/>
+    <entry name="ZoatHideJerkinFlavor" value="Os Zoat, uma raça escrava geneticamente modificada sob o domínio dos Tyranids, estão praticamente ausentes da galáxia há gerações. Embora conhecidos por sua inteligência e carisma incomuns, sua pele densa e escamosa também os tornava um inimigo assustadoramente resistente. Armaduras de pele de Zoat são extremamente raras agora, mas são uma verdadeira dádiva no campo de batalha."/>
+</language>

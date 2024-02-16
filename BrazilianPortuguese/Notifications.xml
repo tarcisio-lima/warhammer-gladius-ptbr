@@ -1,0 +1,36 @@
+<language>
+    <entry name="CityGrownSummary" value="%1% cresceu para %2% da população."/>
+    <entry name="FactionDefeated" value="Facção Derrotada"/>
+    <entry name="FactionDiscovered" value="Facção Descoberta"/>
+    <entry name="FactionDiscoveredSummary" value="%1% descoberto."/>
+    <entry name="FeatureExploredSummary" value="%1% forneceu %2%."/>
+    <entry name="FeatureTypeDiscoveredSummary" value="%1% descoberto."/>
+    <entry name="LordOfSkullsAppearedSummary" value="%1% apareceu."/>
+    <entry name="LordOfSkullsDisappearedSummary" value="%1% desapareceu."/>
+    <entry name="PlayerLost" value="Derrota!"/>
+    <entry name="PlayerLostSummary" value="%1% · %2% %3% derrotado!"/>
+    <entry name="PlayerWon" value="Vitória!"/>
+    <entry name="PlayerWonSummary" value="%1% · %2% %3% vitorioso!"/>
+    <entry name="ProductionCompletedSummary" value="%1% produziu %2%."/>
+    <entry name="QuestAdded" value="Missão adicionada"/>
+    <entry name="QuestCompleted" value="Missão concluída"/>
+    <entry name="QuestUpdated" value="Missão atualizada"/>
+    <entry name="RegionDiscoveredSummary" value="%1% descoberto."/>
+    <entry name="ResearchCompleted" value="Pesquisa concluída"/>
+    <entry name="TileAcquiredSummary" value="%1% bloco adquirido."/>
+    <entry name="TileCapturedSummary" value="%1% capturou %2%."/>
+    <entry name="TileClearedSummary" value="%1% limpou %2%."/>
+    <entry name="UnitGainedTraitSummary" value="%1% ganhou %2%."/>
+    <entry name="UnitTransformedSummary" value="%1% transformado em %2%."/>
+    <entry name="UnitTypeDiscoveredSummary" value="%1% descoberto."/>
+    <entry name="UnitUsedActionOnSummary" value="%1% usou %2% em %3%."/>
+
+    <!--Linked Keys-->
+    <entry name="PlayerWonElimination" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonEliminationSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="PlayerWonQuest" value="<string name='Notifications/PlayerWon'/>"/>
+	<entry name="PlayerWonQuestSummary" value="<string name='Notifications/PlayerWonSummary'/>"/>
+	<entry name="UnitAttackedSummary" value="%1% atacada<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="%1% capturada<br/>%2%."/>
+	<entry name="UnitKilledSummary" value="%1% morta<br/>%2%."/>
+</language>

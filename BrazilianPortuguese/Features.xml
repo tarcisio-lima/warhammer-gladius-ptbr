@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="AdeptusMechanicusCity" value="Cidade Adeptus Mechanicus"/>
+    <entry name="AdeptusMechanicusCityFlavor" value="Uma proto-Colmeia, os Adeptus Mechanicus vivem aqui. Tudo se move, tudo é máquina, nada é natural, macio ou limpo. É um lugar que não foi concebido para o conforto do homem - afinal a carne é fraca - mas aqui a abundante massa da humanidade vive vidas curtas e tristes nas sombras de máquinas sagradas e poderosas"/>
+    <entry name="Arctic" value="Ártico"/>
+    <entry name="ArcticFlavor" value="Na maioria dos planetas habitáveis por humanos, os climas “árticos” gelados e sem árvores estão localizados perto dos pólos do planeta. No Gladius Prime, no entanto, a gestão climática antiga significa que as regiões congeladas são distribuídas de forma menos previsível."/>
+    <entry name="AstraMilitarumCity" value="Cidade Astra Militarum"/>
+    <entry name="AstraMilitarumCityFlavor" value="Os humanos estão amontoados nos altos muros desta cidade, mas isso não significa que seu comportamento esteja confinado a eles. Por quilómetros ao redor, a paisagem é devastada, poluída e explorada, enquanto os vários trabalhadores humanos, máquinas e soldados vagam mais longe, para verdadeiramente “terraformar” a superfície outrora fértil do planeta"/>
+    <entry name="Bedrock" value="Base rochosa"/>
+    <entry name="BedrockDescription" value=""/>
+    <entry name="BedrockFlavor" value="Ao longo dos milênios, a folhagem, a fauna e o habitat de Gladius Prime mudaram drasticamente - mas nenhuma mudança tão drástica quanto a efetuada pelos Tyranids. Nesta área, não só a vida selvagem e a folhagem foram consumidas, mas os enxames do Estripador escavaram o solo, o subsolo e o regolito, deixando apenas pedra nua para trás. Dê tempo suficiente aos Tyranids e todo o planeta ficará assim."/>
+    <entry name="Brush" value="Escovar"/>
+    <entry name="BrushFlavor" value="Este matagal baixo está repleto de detritos e detritos de habitações humanas e da invasão de xenos. Pode não ser atraente à vista, mas é fértil o suficiente para a subsistência básica."/>
+    <entry name="ChaosSpaceMarinesCity" value="Cidade dos Fuzileiros Navais Espaciais do Caos"/>
+    <entry name="ChaosSpaceMarinesCityFlavor" value="A vida aqui é curta. Nascidos nas Fábricas de Escravos, apenas os mais fortes suportam os sacrifícios agonizantes dos Slaaneshis, sobrevivem aos grupos de caça Khornate, escapam às pandemias de Nurgle e são usados pelos planos oniscientes de Tzeentch sem serem destruídos. E, nesta cidade-prisão, ninguém sobrevive a tudo isto por muito tempo, intacto ou não corrompido."/>
+    <entry name="City" value="Cidade"/>
+    <entry name="ClusterMinesDescription" value="Recurso que encerra o movimento de uma unidade e causa dano a cada turno."/>
+    <entry name="Coast" value="Costa"/>
+    <entry name="CoastFlavor" value="Aqui estão as ruínas de uma pescaria imperial; ali, a vila de verão abandonada de um importante burocrata do Império; lá, um acampamento de sobreviventes humanos desesperados e selvagens, sobrevivendo da generosidade do oceano."/>
+    <entry name="CompendiumFlavor" value="Gladius I viu muitas civilizações ascenderem e caírem nos seus 4 mil milhões de anos de existência galáctica. Primeiro os Necrontyr estabeleceram-se aqui, depois os Antigos e seus sucessores Aeldari militarizaram a superfície contra o retorno dos Necrons. Nos anos mais recentes, era um jovem Imperium Hive World, antes da chegada dos Orks. Não é de admirar que a superfície do planeta ainda mostre essa ruptura dilacerada e repleta de relíquias do passado tal como é..."/>
+    <entry name="Desert" value="Deserto"/>
+    <entry name="DesertFlavor" value="Nestas regiões nuas, a precipitação é tão baixa que torna a vida impossível, salvo para os extremófilos de crescimento lento e para as formas de vida anidras mais estranhas. No entanto, a terra e o céu claros são perfeitos para dispositivos de captura solar."/>
+    <entry name="DrukhariCity" value="Cidade de Drukhari"/>
+    <entry name="DrukhariCityFlavor" value="Esta massa de torres imponentes, fábricas, prisões e barracos se assemelha às cidades-colméia existentes de Gladius Prime, embora com uma inclinação sádica. Mas para os Drukhari, este é um mero ponto de parada temporário, um lugar para experimentar o conforto familiar e evocar a sensação de Commorragh. Em breve, eles esperam retornar às suas dimensões originais com prisioneiros e riqueza em abundância..."/>
+    <entry name="EldarCity" value="Cidade Aeldari do Mundo Artesanal"/>
+    <entry name="EldarCityFlavor" value="Esta construção não veio para ficar, mas contém mais habilidade artesanal do que qualquer outra coisa no planeta. Criado por Bonesingers no Caminho do Artesão, é tão funcional quanto delicado. Os fios atenuados de Wraithbone cantam harmonias antigas enquanto são aquecidos pela ascensão da estrela de Gladius. Tudo isto em torno de uma porta de entrada para o próprio imaterium."/>
+    <entry name="FermentationPool" value="Piscina de Fermentação"/>
+    <entry name="FermentationPoolDescription" value="Recurso especial que aumenta a taxa de crescimento da cidade quando adquirido."/>
+    <entry name="FermentationPoolFlavor" value="Esta fonte de água aparentemente natural parece acolhedora para qualquer vida selvagem, mas ai de qualquer Grox sedento que passe por aqui. As bactérias incomuns da piscina apodrecem as plantas do planeta e concentram o escoamento em algo letalmente intoxicante. Raças mais avançadas podem coletar e refinar o líquido, para comércio ou consumo de entretenimento."/>
+    <entry name="Forest" value="Floresta"/>
+    <entry name="ForestFlavor" value="As florestas de rápido crescimento de Gladius persistem durante todo o ano, o crescimento vegetal estendendo-se até o céu e bloqueando a linha de visão. As plantas de Gladius podem parecer árvores, mas na verdade são duras como ferro, pois extraem minérios das profundezas da superfície do planeta."/>
+    <entry name="Grassland" value="Pastagem"/>
+    <entry name="GrasslandFlavor" value="Quer sejam planícies naturais ou regiões outrora habitadas devastadas por energias de distorção profanas, estes campos ondulados são os locais mais férteis do planeta, perfeitos para culturas aprovadas pelo Imperium."/>
+    <entry name="GravityWaves" value="Ondas Gravitacionais"/>
+    <entry name="GravityWavesDescription" value="Impede o movimento da unidade."/>
+    <entry name="GroxPasture" value="Pasto Grox"/>
+    <entry name="GroxPastureDescription" value="Recurso especial que aumenta a produção de alimentos ou requisições da cidade quando adquiridos."/>
+    <entry name="GroxPastureFlavor" value="Em torno das pedras de calor, contadores de histórias alienígenas meditam sobre o Grox - o perigoso animal de rebanho que é onipresente em todas as terras humanas. Aonde quer que o homem vá, o robusto Grox viaja com ele ou chega antes dele. Alguns brincam que o Grox foi a criação de maior sucesso dos Antigos."/>
+    <entry name="HolySite" value="Sororitas Santo Sente-see"/>
+    <entry name="HolySiteDescription" value="Recurso que fornece uma recompensa de pesquisa para a primeira unidade Hospitalária que entrar no bloco."/>
+    <entry name="HolySiteFlavor" value="Os Tabernáculos das Adepta Sororitas não são apenas locais sagrados – eles também abrigam relíquias de Irmãs antigas, armas, armaduras e valiosos conselhos táticos. Em tempos de extrema necessidade, as Irmãs podem retomá-los e usá-los na guerra..."/>
+    <entry name="ImperialRuin" value="Ruínas Imperiais"/>
+    <entry name="ImperialRuinFlavor" value="A colônia humana pré-invasão foi construída para defesa e exploração mineral. Nada foi projetado para resistir às mudanças tectônicas e aos horrores gerados pela deformação que vieram com a invasão Ork e, portanto, muito poucas estruturas resistiram a ela. Esta ruína é um sobrevivente raro."/>
+    <entry name="JokaeroTraderEncampment" value="Acampamento de Comerciantes Jokaero"/>
+    <entry name="JokaeroTraderEncampmentDescription" value="Recurso especial que permite que uma unidade heróica no bloco compre e venda itens, bem como aumenta a produção de influência da cidade quando adquirida."/>
+    <entry name="JokaeroTraderEncampmentFlavor" value="Se você tem pouca consideração pela sua vida e busca emoção, visite o Jokaero. Imbuídos de uma criatividade técnica instintiva que excede até mesmo a de um Ork Mekboy, esses alienígenas de pêlo laranja lembram um grande macaco terráqueo, mas podem criar maravilhas além da imaginação - o desafio é adquiri-los e descobrir com segurança o que eles fazem..."/>
+    <entry name="LightBrush" value="Pincel leve"/>
+    <entry name="NecronsCity" value="Cidade Necron"/>
+    <entry name="NecronsCityFlavor" value="Obeliscos insanos, mastabas e criptas semienterradas fazem com que esta extensa cidade se assemelhe a uma antiga necrópole humana. No entanto, está longe de estar deserto, em vez disso está cheio de Necrons-guerreiros sem alma e máquinas de metal vivo que consideram outras raças sencientes como, na melhor das hipóteses, uma fonte de escravos e, na pior, uma praga a ser eliminada da existência"/>
+    <entry name="NecronTomb" value="Tumba Necron"/>
+    <entry name="NecronTombDescription" value="Recurso que permite aos Necrons fundar uma cidade no bloco."/>
+    <entry name="NecronTombFlavor" value="Nas profundezas deste inócuo pedaço de terra fica uma Cidade Tumba, onde os Necrons dormiram durante longos milênios. Para quem conhece os protocolos corretos, é simples iniciar o procedimento de despertar ele e seus habitantes de seu sono sem sonhos..."/>
+    <entry name="Ocean" value="Oceano"/>
+    <entry name="OceanFlavor" value="Quem sabe que tesouros foram arrastados para os poderosos mares de Gladius? Que artefatos há muito perdidos jazem cobertos de coral em meio às fumaças do fundo do oceano e às aberrações marítimas que temem a luz? Dada a riqueza da terra, ninguém nunca explorou estas questões."/>
+    <entry name="OreField" value="Campo Minério"/>
+    <entry name="OreFieldDescription" value="Recurso especial que aumenta a produção de minério ou requisições da cidade quando adquirido."/>
+    <entry name="OreFieldFlavor" value="Poucos lugares num mundo habitado ainda têm rochas ricas em minerais simplesmente espalhadas pela superfície. No entanto, aqui, as rupturas da tempestade de dobra arrancaram grandes pedaços da superfície do planeta, permitindo uma fácil exploração por qualquer facção que o encontre primeiro"/>
+    <entry name="OrkoidFungus" value="Fungo Orkoide"/>
+    <entry name="OrkoidFungusDescription" value="Recurso que aumenta a produção de alimentos e cura Orks."/>
+    <entry name="OrksCity" value="Cidade Ork"/>
+    <entry name="OrksCityFlavor" value="Esta monstruosa favela mal merece o nome de cidade, quando colocada ao lado das estruturas de outras raças, mas é o mais próximo que os Orks chegam de uma existência urbana. Placas desgastadas de metal e pedra escavadas cercam um ferro-velho cheio de poços de combate toscos, poços profundos e cogumelos pungentes."/>
+    <entry name="Outpost" value="Posto avançado"/>
+    <entry name="OutpostDescription" value="Recurso que concede ao jogador controlador um pequeno bônus de recursos."/>
+    <entry name="OutpostFlavor" value="A longa história de Gladius Prime deixou o planeta repleto de uma ampla variedade de geologia, flora e fauna de toda a galáxia conhecida. Para aproveitar os úteis, a maioria das civilizações estabelece um pequeno grupo responsável pela manutenção e coleta e um posto avançado temporário para abrigá-los."/>
+    <entry name="PromethiumRelayPipes" value="Tubos de relé de promécio"/>
+    <entry name="PromethiumRelayPipesDescription" value="Recurso especial que aumenta a produção de energia da cidade quando adquirido."/>
+    <entry name="PromethiumRelayPipesFlavor" value="Esses dutos fortemente blindados já transportaram promécio rico em energia para as extensas cidades humanas do planeta, a partir de auto-refinarias profundamente enterradas. Agora, com as cidades em ruínas devido à guerra e ao caos, os canos sobreviventes podem ser explorados por qualquer raça que os reivindique primeiro"/>
+    <entry name="RecafLeaf" value="Folha Recaf"/>
+    <entry name="RecafLeafDescription" value="Recurso especial que aumenta a fidelização da cidade ao ser adquirido."/>
+    <entry name="RecafLeafFlavor" value="Esses humildes campos de ervas selvagens escondem um segredo: um alimento rico e um estimulante narcótico que permite que as raças orgânicas fiquem sem dormir ou descansar por longos períodos de tempo. Chamado de 'Recaf' pelos humanos, ele é coletado, processado e distribuído aos operários e escravos para melhorar significativamente sua produção."/>
+    <entry name="River" value="Rio"/>
+    <entry name="RiverFlavor" value="Este curso de água doce segue em direção ao mar, concentrando a riqueza das montanhas e dos campos. Os regimentos de infantaria estão menos interessados na riqueza do rio e mais nas suas capacidades como linha defensiva natural."/>
+    <entry name="Rocks" value="Rochas"/>
+    <entry name="RocksFlavor" value="Impulsionados pelo inferno sísmico do planeta, estes penhascos recém-revelados podem estar desprovidos de vida orgânica, mas são uma excelente fonte de minerais raros no coração de Gladius."/>
+    <entry name="Ruin" value="Ruínas de Vaul"/>
+    <entry name="RuinDescription" value="Recurso especial que oferece uma recompensa para a primeira unidade que entrar no bloco e aumenta a produção de pesquisa da cidade quando adquirida."/>
+    <entry name="RuinFlavor" value="Não está claro o que é isso – alguma estrutura desgastada pelo tempo erguendo-se da superfície destruída, feita do mesmo material impenetrável que os raros artefatos que pontilham o planeta. Muito pode ser aprendido simplesmente estudando-o - e talvez ele ainda guarde alguns segredos."/>
+    <entry name="Savanna" value="Savana"/>
+    <entry name="SavannaFlavor" value="Florestas e pastagens mistas proliferam aqui, no topo das inevitáveis ruínas humanas e xenos, criando uma paisagem que é ao mesmo tempo fértil e abriga as únicas “árvores” ricas em minério do planeta."/>
+    <entry name="Shard" value="Fragmento de Vaul"/>
+    <entry name="ShardDescription" value="Recurso especial que aumenta as requisições de minério e a produção de energia da cidade quando adquirido."/>
+    <entry name="ShardFlavor" value="Antes da tempestade de guerra, quando o homem governava o planeta, estes grandes afloramentos eram uma curiosidade e uma atração, como os pilares de Cádia. No entanto, enquanto a tempestade de guerra assola o céu, eles tremem com um poder cruel que raças imprudentes podem tentar explorar"/>
+    <entry name="SistersOfBattleCity" value="Cidade Adepta Sororitas"/>
+    <entry name="SistersOfBattleCityFlavor" value="Uma cidade construída com dois propósitos: ser um monumento ao Imperador da divindade da humanidade; e ser um bastião de seus guerreiros sagrados, os Adepta Sororitas. O bem-estar de muitos seres humanos de vida curta que trabalham sob suas torres é uma preocupação terciária..."/>
+    <entry name="SkullAltar" value="Altar da Caveira"/>
+    <entry name="SkullAltarDescription" value="Recurso especial que fornece uma recompensa recorrente às unidades que entram no bloco e aumenta a produção de influência da cidade quando adquirida."/>
+    <entry name="SkullAltarFlavor" value="Erguendo-se do chão, o Altar da Caveira é formado pelos violentos tributos acumulados em oferendas ao Trono de Khorne. Do topo do terrível pedestal, um sacerdote de Khorne ruge invectivas, evocando os julgamentos do Deus do Sangue para eliminar todos os sinais de fraqueza"/>
+    <entry name="SpaceMarinesCity" value="Cidade dos Fuzileiros Navais Espaciais"/>
+    <entry name="SpaceMarinesCityFlavor" value="Onde outras raças têm cidades, os Space Marines têm sua solitária fortaleza-mosteiro-um bastião de sua espécie, parte capela, parte arsenal, onde novos Adeptus Astartes são recrutados e alterados usando as antigas e impiedosas técnicas inventadas pelo Imperador. ele mesmo."/>
+    <entry name="TauCity" value="Cidade de T'au"/>
+    <entry name="TauCityFlavor" value="Este é o mais próximo que qualquer cidadão da galáxia pode chegar da utopia – uma cidade aberta e acolhedora, de construção elegante, onde todas as espécies podem viver com conforto e paz estudiosa – até mesmo o homem. Triste, então, que tenha sido construído em Gladius Prime, cercado por alienígenas hostis determinados a exterminar os T'au e seus aliados."/>
+    <entry name="Tundra" value="Tundra"/>
+    <entry name="TundraFlavor" value="Uma paisagem austera domina aqui, onde as curtas estações de cultivo e as baixas temperaturas proporcionaram apenas uma existência amarga para os antigos colonizadores humanos. Alimentos ainda podem ser encontrados aqui, mas sistemas hidropônicos ou intensivos são necessários para a sobrevivência."/>
+    <entry name="TyranidsCity" value="Cidade dos Tiranídeos"/>
+    <entry name="TyranidsCityFlavor" value="Chamar isso de cidade é um ato estranho. Como você chamaria um grupo de organismos simbióticos leviatãs, agrupados em um só lugar e infestados por criaturas menores, com a inteligência de uma Rainha Norn guiando tudo? Isto é mais uma pessoa e seus membros do que uma cidade – mas se há algo comum a todas as raças da galáxia, é que elas interpretam tudo modelado a partir de sua própria experiência. Para o homem, então, isto é uma cidade."/>
+    <entry name="Volcanic" value="Vulcânico"/>
+    <entry name="VolcanicFlavor" value="Aqui, a enorme pressão subterrânea desencadeada pelo caos de dobra criou erupções sísmicas na superfície. Para aquelas raças dispostas a arriscar suas vidas (ou a vida de seus escravos), é uma área rica para exploração de minério."/>
+    <entry name="WireWeed" value="Erva Daninha"/>
+    <entry name="WireWeedDescription" value="Recurso que encerra o movimento de uma unidade e causa dano a cada turno."/>
+    <entry name="WireWeedFlavor" value="Ai de quem vagueia por estes arbustos. Lentamente no início, mas cada vez mais rápido, a erva daninha viva aperta seus filamentos afiados ao redor do infeliz intruso"/>
+
+    <!--Links Referenciais-->
+    <entry name="AdeptusMechanicusCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="AstraMilitarumCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="BolsterDefences" value="<string name='Traits/BolsterDefences'/>"/>
+	<entry name="BolsterDefencesDescription" value="<string name='Traits/BolsterDefencesDescription'/>"/>
+	<entry name="BolsterDefencesFlavor" value="<string name='Traits/BolsterDefencesFlavor'/>"/>
+	<entry name="ChaosSpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="DrukhariCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="EldarCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="GravityWavesFlavor" value="<string name='Actions/Tau/GravityWaveProjectorFlavor'/>"/>
+	<entry name="NecronsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="OrkoidFungusFlavor" value="<string name='Traits/OrkoidFungusFlavor'/>"/>
+	<entry name="OrksCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="ShatterDefences" value="<string name='Traits/ChaosSpaceMarines/ShatterDefences'/>"/>
+	<entry name="ShatterDefencesDescription" value="<string name='Traits/ChaosSpaceMarines/ShatterDefencesDescription'/>"/>
+	<entry name="ShatterDefencesFlavor" value="<string name='Traits/ChaosSpaceMarines/ShatterDefencesFlavor'/>"/>
+	<entry name="SistersOfBattleCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="SmokeScreen" value="<string name='Traits/SmokeScreen'/>"/>
+	<entry name="SmokeScreenDescription" value="<string name='Traits/SmokeScreenDescription'/>"/>
+	<entry name="SmokeScreenFlavor" value="<string name='Traits/SmokeScreenFlavor'/>"/>
+	<entry name="SpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="TauCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="TelekineDome" value="<string name='Traits/TelekineDome'/>"/>
+	<entry name="TelekineDomeDescription" value="<string name='Traits/TelekineDomeDescription'/>"/>
+	<entry name="TelekineDomeFlavor" value="<string name='Traits/TelekineDomeFlavor'/>"/>
+	<entry name="TyranidsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+</language>
