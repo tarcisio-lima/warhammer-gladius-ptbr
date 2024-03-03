@@ -44,7 +44,7 @@
     <entry name="Create" value="Criar"/>
     <entry name="Credits" value="Créditos"/>
     <entry name="DLC" value="DLC"/>
-    <entry name="DamageDealt" value="Dano Causado"/>
+    <entry name="DamageDealt" value="Dano causado"/>
     <entry name="DamageTaken" value="Dano recebido"/>
     <entry name="Debug" value="Depurar"/>
     <entry name="Default" value="Padrão"/>
@@ -69,15 +69,15 @@
     <entry name="EnableBuildingHint" value="Viabilizar um edifício deste tipo, alocando-lhe população."/>
     <entry name="EnableMod" value="Habilitar mod."/>
     <entry name="EnableSimultaneousTurns" value="Ativar curvas simultâneas"/>
-    <entry name="EndTurn" value="Turno final"/>
+    <entry name="EndTurn" value="Finalizar turno"/>
     <entry name="Enter" value="Digitar"/>
     <entry name="EstimatedCasualties" value="estimativa de %1%/%2% de vítimas"/>
     <entry name="Events" value="Eventos"/>
     <entry name="ExecuteQueuedOrders" value="Executar pedidos em fila (%1%)"/>
     <entry name="Extra" value="Extra"/>
     <entry name="ExitCity" value="Sair da Cidade"/>
-    <entry name="ExitToMainMenu" value="Sair para o Menu Principal"/>
-    <entry name="ExitToDesktop" value="Saia para a área de trabalho"/>
+    <entry name="ExitToMainMenu" value="Sair para o Menu"/>
+    <entry name="ExitToDesktop" value="Sair para o Dekstop"/>
     <entry name="Explored" value="Explorado"/>
     <entry name="Factions" value="Facções"/>
     <entry name="Features" value="Características"/>
@@ -108,12 +108,12 @@
     <entry name="LoadGame" value="Carregar jogo"/>
     <entry name="MainMenu" value="Menu principal"/>
     <entry name="MarksOfChaos" value="Marcas do Caos"/>
-    <entry name="Max" value="máximo"/>
-    <entry name="Menu" value="Cardápio"/>
+    <entry name="Max" value="Máximo"/>
+    <entry name="Menu" value="Menu"/>
     <entry name="Military" value="Militares"/>
-    <entry name="Min" value="min"/>
-    <entry name="Minimap" value="Minimapa"/>
-    <entry name="Missing" value="?"/>
+    <entry name="Min" value="Mínimo"/>
+    <entry name="Minimap" value="Mini-mapa"/>
+    <entry name="Missing" value=""/>
     <entry name="Mixer" value="Misturador"/>
     <entry name="ModDetailsHint" value="Abra os detalhes do mod."/>
     <entry name="ModFolderHint" value="Abra a pasta mod."/>
@@ -149,17 +149,17 @@
     <entry name="Paste" value="Colar"/>
     <entry name="PasteInviteCode" value="Cole o código do convite"/>
     <entry name="PasteInviteCodeHint" value="Entre no jogo a partir do código de convite na sua área de transferência."/>
-    <entry name="PatchNotes" value="Notas de atualização"/>
-    <entry name="Ping" value="Pingue"/>
+    <entry name="PatchNotes" value="Atualizações"/>
+    <entry name="Ping" value="Ping"/>
     <entry name="Play" value="Jogar"/>
     <entry name="Player" value="Jogador"/>
     <entry name="PlayerXTurn" value="Turno de %1%"/>
-    <entry name="Players" value="Jogadoras"/>
+    <entry name="Players" value="Jogadores"/>
     <entry name="PleaseWait" value="Por favor, aguarde ..."/>
     <entry name="PleaseWaitHint" value="Por favor, espere por outros jogadores."/>
     <entry name="Quests" value="Missões"/>
     <entry name="QuickSelectFactionHint" value="Facção de seleção rápida."/>
-    <entry name="Quit" value="Desistir"/>
+    <entry name="Quit" value="Sair"/>
     <entry name="Random" value="Aleatório"/>
     <entry name="Randomize" value="Aleatória"/>
     <entry name="Ready" value="Preparar"/>
@@ -280,23 +280,23 @@
 	<entry name="RequiresMovement" value="<icon height='20' texture='Icons/Attributes/Movement'/> <style color='GUI/Yellow'/>Requer movimento<style color='Default'/>"/>
 	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
 	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% Acumulado"/>
-	<entry name="ResourceFromAdjacentBuildings" value="    <icon texture='GUI/Bullet'/>%1% de edifícios adjacentes"/>
-	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% de construções"/>
-	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% do valor da cidade"/>
-	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% de destruição"/>
-	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% de dificuldade"/>
-	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% de recursos"/>
-	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% de lealdade"/>
-	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% de população"/>
-	<entry name="ResourceFromShortage" value="    <icon texture='GUI/Bullet'/>%1% da escassez de recursos"/>
-	<entry name="ResourceFromTiles" value="    <icon texture='GUI/Bullet'/>%1% de blocos"/>
-	<entry name="ResourceFromUnits" value="    <icon texture='GUI/Bullet'/>%1% de unidades"/>
-	<entry name="ResourceFromUtopia" value="    <icon texture='GUI/Bullet'/>%1% de utopia"/>
+	<entry name="ResourceFromAdjacentBuildings" value="<icon texture='GUI/Bullet'/>%1% de edifícios adjacentes"/>
+	<entry name="ResourceFromBuildings" value="<icon texture='GUI/Bullet'/>%1% de construções"/>
+	<entry name="ResourceFromCities" value="<icon texture='GUI/Bullet'/>%1% do valor da cidade"/>
+	<entry name="ResourceFromDestruction" value="<icon texture='GUI/Bullet'/>%1% de destruição"/>
+	<entry name="ResourceFromDifficulty" value="<icon texture='GUI/Bullet'/>%1% de dificuldade"/>
+	<entry name="ResourceFromFeatures" value="<icon texture='GUI/Bullet'/>%1% de recursos"/>
+	<entry name="ResourceFromLoyalty" value="<icon texture='GUI/Bullet'/>%1% de lealdade"/>
+	<entry name="ResourceFromPopulation" value="<icon texture='GUI/Bullet'/>%1% de população"/>
+	<entry name="ResourceFromShortage" value="<icon texture='GUI/Bullet'/>%1% da escassez de recursos"/>
+	<entry name="ResourceFromTiles" value="<icon texture='GUI/Bullet'/>%1% de blocos"/>
+	<entry name="ResourceFromUnits" value="<icon texture='GUI/Bullet'/>%1% de unidades"/>
+	<entry name="ResourceFromUtopia" value="<icon texture='GUI/Bullet'/>%1% de utopia"/>
 	<entry name="ResourceLimit" value="<icon texture='GUI/Bullet'/>%1% limite"/>
 	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% por turno"/>
 	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% escassez"/>
 	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% total"/>
-	<entry name="SkipCityHint" value="Skip this city [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: Selecionar próximo(a) city.<br/>[<control name='Controls/SelectPrevious'/>]: selecione a cidade ociosa anterior."/>
-	<entry name="SkipUnitHint" value="Skip this unit [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: Selecionar próximo(a) unit.<br/>[<control name='Controls/SelectPrevious'/>]: selecione a unidade ociosa anterior."/>
+	<entry name="SkipCityHint" value="Pular esta cidade [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: Selecionar próximo(a) city.<br/>[<control name='Controls/SelectPrevious'/>]: selecione a cidade ociosa anterior."/>
+	<entry name="SkipUnitHint" value="Pular esta unidade [<control name='Controls/NextTask'/>].<br/>[<control name='Controls/SelectNext'/>]: Selecionar próximo(a) unit.<br/>[<control name='Controls/SelectPrevious'/>]: selecione a unidade ociosa anterior."/>
 	<entry name="WaaaghLevelHint" value="<style name='Title'/>Waaagh! Nível<style name='Default'/><br/>Cada nível de Waaagh! aumenta ou diminui os ataques das unidades Ork e constrói lealdade ao 2%% (up to +/-20%%). Waaagh! o nível é baseado na influência acumulada e na manutenção da influência da unidade, e é atualizado no início do turno.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% ataques e lealdade)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
 </language>
