@@ -7,9 +7,11 @@ Este é um repositório não oficial dedicado a complementar a tradução do jog
 A release inicial não conta com tradutores oficiais e pode haver erros de sintaxe e ortografia pois fora usada uma rotina de extração dos textos originais escritos em inglês e submetidos a api de tradução do google. Para aqueles que desejam contribuir com o projeto pode-se avaliar in-game o termos exibidos e posteriormente procurá-los pela chave correspondente no arquivo e assim trocá-los.
 
 ### Instalação
-- O conjunto de arquivos deve ser copiado de colado dentro do diretório `<GameRootFolder>\Data\Core\Languages`;
-- Para trocar o idioma, inicie o jogo, vá até as configurações, verifique se a opção `Português Brasil` parece na lista suspensa das opções;
-- Selecione e reinicie o jogo;
+- Copie a pasta `BrazilianPortuguese` e o arquvo `Languages.xml` para dentro do diretório `<GameRootFolder>\Data\Core\Languages`;
+- Para trocar o idioma, inicie o jogo, vá até as configurações, verifique se a opção `Português Brasil` aparece na lista suspensa das opções e selecione-a;
+- As mudanças serão efetivas após você reiniciar o jogo;
+
+> A tradução ainda está em estado alfa, portando pode apresentar problemas durante a gameplay podendo causar até crashes
 
 ### Como contribuir
 
