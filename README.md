@@ -15,7 +15,7 @@ Este é um repositório não oficial dedicado a complementar a tradução do jog
 
 Atualmente esse repositório é mantido unicamente por mim, é um trabalho árduo que visa acessibilizar o idioma da melhor forma possível para os fãs que curtem o game, mas nunca puderam experienciar a campanha traduzida. Quer contribuir? Não importa se você serve aos *Deuses do Caos* ou ao *Império do Homem* aqui vai algumas sugestões:
 
-##### 1. Baixar e testar a tradução
+#### 1. Baixar e testar a tradução
 
 O repositório trabalha com ramificações para cada estágio da produção:  
  - A branch `dev` contém as versões mais recentes e instáveis dos arquivos traduzidos, podendo conter muitos erros e causar até crashes no jogo;
@@ -29,7 +29,7 @@ Baixe os arquivos da branch `dev`, siga as instruções da instalação manual e
  
 Para todos os efeitos coloque um título legal que resuma o incidente, descreva passo-a-passo o que você fez dentro do jogo até chegar no problema e se possível adicione prints para nos ajudar a identificar a causa raiz.
 
-##### 2. Colaborar  com a tradução
+#### 2. Colaborar  com a tradução
 
 Se você manja de tradução, tem o conhecimento básico sobre como funciona um arquivo XML e conhece as ferramentas certas pode criar um fork do projeto ou solicitar acesso como contribuinte! Quanto mais pessoas ajudando, melhor!
 
@@ -37,7 +37,7 @@ Para ser uma colaborador é necessário ter uma conta no GitHub lembre-se disso!
 
 Aqui eu costumo atualizar a pasta English a cada nova versão que é lançada do Gladius, através da ferramenta de DIFF consigo conferir se novas chaves foram adicionadas a tradução base original. Após isso, ajusto a tradução PT-BR com um editor de texto e voalá!
 
-##### 3. Considere fazer uma doação
+#### 3. Considere fazer uma doação
 
 Dedicar-se ao projeto consome tempo e esforço, sinta-se livre para fazer uma doação de qualquer valor para a chave: `tarcisio.lima.amorim@outlook.com` isso me ajuda a manter-se motivado trabalhando neste repositório.
 
