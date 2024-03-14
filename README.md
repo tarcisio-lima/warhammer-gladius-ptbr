@@ -4,12 +4,16 @@
 
 Este é um repositório não oficial dedicado a complementar a tradução do jogo **Warhammer 40k: Gladius Relics of War** e suas expansões, mantido pela comunidade e seus fãs. A release inicial não conta com tradutores oficiais e pode haver erros de sintaxe, formatação e ortografia pois fora usada uma rotina de extração dos textos originais escritos em inglês e submetidos a api de tradução do google.
 
+### Página de Downloads
+
+Downloads das versões beta podem ser encontrados [AQUI](https://github.com/tarcisio-lima/warhammer-gladius-ptbr/releases")
+
 ### Instalação Manual
 - Copie a pasta `BrazilianPortuguese` e o arquvo `Languages.xml` para dentro do diretório `<GameRootFolder>\Data\Core\Languages`;
 - Para trocar o idioma, inicie o jogo, vá até as configurações, verifique se a opção `Português Brasil` aparece na lista suspensa das opções e selecione-a;
 - As mudanças serão efetivas após você reiniciar o jogo;
 
-> A tradução ainda está em estado alfa, portando pode apresentar problemas durante a gameplay podendo causar até crashes
+> A tradução ainda está instável, portando pode apresentar problemas durante a gameplay podendo causar até crashes essencialmente em branches de desenvolvimento
 
 ### Como Contribuir?
 
