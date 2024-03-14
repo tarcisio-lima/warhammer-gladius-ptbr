@@ -43,7 +43,7 @@ Aqui eu costumo atualizar a pasta English a cada nova versão que é lançada do
 
 #### 3. Considere fazer uma doação
 
-Dedicar-se ao projeto consome tempo e esforço, sinta-se livre para fazer uma doação de qualquer valor para a chave: `tarcisio.lima.amorim@outlook.com` isso me ajuda a manter-se motivado trabalhando neste repositório.
+Dedicar-se ao projeto consome tempo e esforço, sinta-se livre para fazer uma doação de qualquer valor para a chave PIX: `tarcisio.lima.amorim@outlook.com` isso me ajuda a manter-se motivado trabalhando neste repositório.
 
 ### Contato
 
