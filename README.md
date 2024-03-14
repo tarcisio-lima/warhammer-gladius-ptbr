@@ -6,7 +6,7 @@ Este é um repositório não oficial dedicado a complementar a tradução do jog
 
 ### Página de Downloads
 
-Downloads das versões beta podem ser encontrados [AQUI](https://github.com/tarcisio-lima/warhammer-gladius-ptbr/releases")
+Downloads das versões beta podem ser encontrados [AQUI](https://github.com/tarcisio-lima/warhammer-gladius-ptbr/releases)
 
 ### Instalação Manual
 - Copie a pasta `BrazilianPortuguese` e o arquvo `Languages.xml` para dentro do diretório `<GameRootFolder>\Data\Core\Languages`;
